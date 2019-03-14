@@ -1,4 +1,3 @@
-
 import re
 import requests
 from lxml import html
@@ -15,22 +14,23 @@ def main( argv):
 	start = int(argv[2]) if len(argv)>=3 else 27
 	stop = int(argv[3]) if len(argv)>=4 else 881
 
+	print(f"Starting scrape of {base_url} ...")
 	scraper = BatScraper()
 	scraper.scrape( base_url, start, stop )
+	print(f"Finished {base_url} ({start}..{stop})")
 
 class BatScraper:
 
 	months = {'january':'01', 'february':'02', 'march':'03', 'april':'04', 'may':'05', 'june':'06',
 		'july':'07', 'august':'08', 'september':'09', 'october':'10', 'november':'11', 'december':'12'}
 
-	def scrape(self, base_url:str, minimum: int, maximum = None, nap: int = 1 ):
+	def scrape(self, base_url:str, minimum: int, maximum = None, nap: float = 1 ):
 
 		if maximum is None:
 			maximum = minimum
 
 		now = datetime.now()
 		timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
-
 
 		started_log = False
 		log_time  = now.strftime("%Y-%m-%d_%H-%M-%S")
@@ -51,7 +51,6 @@ class BatScraper:
 				return false
 			return true
 
-
 		mongo = MongoClient('localhost', 27017)
 		db = mongo["BatScrap"]["issue"]
 		db_info = mongo["BatScrap"]["info"]
@@ -61,7 +60,8 @@ class BatScraper:
 		db_log.insert_one({
 			'_id': db_log_key,
 			'base_url': base_url,
-			'range': [minimum, maximum],
+			'from': minimum,
+			'to': maximum,
 			'started': timestamp,
 			'status': 'started'
 		})
@@ -72,7 +72,6 @@ class BatScraper:
 		consecutive_skips = 0 # number of consecutive requests skipped due to http or parsing error
 
 		for number in range( minimum, maximum+1 ):
-
 			url = base_url + str(number)
 
 			print( f"Requesting `{url}`... ", end='')
@@ -95,73 +94,91 @@ class BatScraper:
 					return
 				continue
 
-			last_cookies = response.cookies # return them the cookies they set, just in case
+			if response.cookies:
+				last_cookies = response.cookies # return them the cookies they set, just in case
 
 			print( 'parsing... ', end='')
-			tree = html.fromstring( response.content)
+			xml = html.fromstring(response.content)
 
 			data = {}
 
-			issue = tree.xpath("//*[@class='page-header__title']/text()")
+			issue = xml.xpath("//*[@class='page-header__title']/text()")
 			if issue:
-				data['issue'] = "".join( issue)
+				data['issue'] = "".join(issue)
 
-			one_shot = tree.xpath("//*[@data-source='OneShot']//text()")
+			one_shot = xml.xpath("//*[@data-source='OneShot']//text()")
 			if one_shot:
 				data['publication'] = one_shot[0]
 				match = re.search( '\d+', one_shot[1])
-				data['issue_number'] = match[0]
+				data['number'] = int(match[0])
 				data['one_shot'] = "".join( one_shot)
 			elif issue: # if there's no one-shot, try with issue
 				parts = data['issue'].split(" ")
 				data['publication'] = " ".join( parts[0:-1])
-				data['issue_number'] = parts[-1]
+				data['number'] = int(parts[-1])
 			else:
-				log( f"{url} : Can't get publication and issue number from [one-shot] or [issue], skipping this URI." )
+				log(f"{url} : Can't get publication and issue number from [one-shot] or [issue], skipping this URI.")
 				log({ 'issue': issue, 'one_shot': one_shot })
 				consecutive_skips += 1
 				skips += 1
-				if not skip( consecutive_skips):
+				if not skip(consecutive_skips):
 					return
 				continue
 			
-			dateinfo = tree.xpath("//h2[contains(@class,'pi-title')]//a[contains(@title,'Category')]//text()")
+			dateinfo = xml.xpath("//h2[contains(@class,'pi-title')]//a[contains(@title,'Category')]//text()")
 			if len(dateinfo) == 2:
 				month, year = dateinfo
-				month_number = self.months[ month.lower() ]
+				month_number = self.months[month.lower()]
 				data['date'] = f"{month}, {year}"
 				date_key = f"{year}-{month_number}"
-				data['date_key']  = int( year + month_number )
+				data['date_key']  = int(year + month_number)
 			else:
 				log( f"{url} : Can't get date info, skipping this URI." )
-				log({ 'dateinfo': dateinfo })
+				log({'dateinfo': dateinfo})
 				skips += 1
 				consecutive_skips += 1
 				if not skip( consecutive_skips):
 					return
 				continue
 			
-			main_story = tree.xpath("//*[@data-source='StoryTitle1']//text()")
+			main_story = xml.xpath("//*[@data-source='StoryTitle1']//text()")
 			if main_story:
-				data['main_story'] = "".join( main_story)
+				data['main_story'] = "".join(main_story).strip()
 			else:
 				print( f"{url} : Couldn't retrieve main_story.")
+			
+			main_story_link = xml.xpath("//*[@data-source='StoryTitle1']/a")
+			if main_story_link:
+				rel = main_story_link[0].xpath("@rel")
+				if (not rel) or (rel[0] != 'nofollow'):
+					data['main_story_link'] = [
+						main_story_link[0].xpath("@title")[0],
+						main_story_link[0].xpath("@href")[0]]
 
-			# Corregir, el event puede no tener <a>, ver https://dc.fandom.com/wiki/Detective_Comics_Vol_1_682
-			event = tree.xpath("//*[@data-source='Event']//a")
+			event = xml.xpath("//*[@data-source='Event']")
 			if event:
-				data['event'] = {
-					"title": event[0].xpath("text()")[0],
-					"link":  event[0].xpath("@href")[0] }
+				event_text = event[0].xpath("descendant-or-self::*/text()")
+				data['event'] = "".join(event_text).strip()
+				event_link = event[0].xpath("descendant-or-self::a")
+				if event_link:
+					data['event_link'] = {
+						'title': event_link[0].xpath("@title")[0],
+						'href' : event_link[0].xpath("@href")[0]}
 
-			# Corregir, el @alt puede ser 'Variant', 'Textless', ver https://dc.fandom.com/wiki/Detective_Comics_Vol_1_682
-			cover = tree.xpath("//img[@alt='Cover']/@src")
-			if cover:
-				data['cover'] = cover[0]
+			covers = xml.xpath("//aside[contains(@class,'portable-infobox')]//figure//img")
+			if covers:
+				data['covers']={}
+				for cover in covers:
+					cover_type = cover.xpath("@alt")[0]
+					while cover_type in data['covers']:
+						cover_type += '>'
+					data['covers'][cover_type] = [
+						cover.xpath("@src")[0],
+						cover.xpath('@srcset')[0]]
 			else:
 				print( f"{url} : Couldn't retrieve cover.")
 
-			stories = tree.xpath("//h2[contains(@class,'pi-header')]")
+			stories = xml.xpath("//h2[contains(@class,'pi-header')]")
 			if stories:
 				data['stories'] = []
 				for story in stories:
@@ -173,17 +190,17 @@ class BatScraper:
 			else:
 				print( f"{url} : Couldn't retrieve stories.")
 			
-			link_next = tree.xpath("//*[@data-source='NextIssue']/a/@href")
+			link_next = xml.xpath("//*[@data-source='NextIssue']/a/@href")
 			if link_next:
 				data['next'] = link_next[0]
 
-			link_prev = tree.xpath("//*[@data-source='PreviousIssue']/a/@href")
+			link_prev = xml.xpath("//*[@data-source='PreviousIssue']/a/@href")
 			if link_prev:
 				data['prev'] = link_prev[0]
 			
 			data['url'] = url
 			data['updated'] = timestamp
-			_id = date_key +'|'+ data['publication'] +'|'+ data['issue_number']
+			_id = date_key +'|'+ data['publication'] +'|'+ str(data['number'])
 
 			# Ok if we didn't skip by now, then this request looks good
 			consecutive_skips = 0
@@ -194,6 +211,8 @@ class BatScraper:
 				'successful_parses': successful_parses,
 				'skips': skips,
 				'last_url': url,
+				'from': minimum,
+				'to': maximum,
 				'last_number': number,
 				'last_data': data,
 				'last_parse': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
