@@ -1,0 +1,1804 @@
+1939-05 | DC1  27 | The Bat-Man: "The Case of the Chemical Syndicate" 
+1939-06 | DC1  28 | The Bat-Man: "Frenchy Blake's Jewel Gang" 
+1939-07 | DC1  29 | "The Batman Meets Doctor Death" 
+1939-08 | DC1  30 | The Batman: "The Return of Doctor Death" 
+1939-09 | DC1  31 | "Batman Versus the Vampire, Part 1" 
+1939-10 | DC1  32 | "Batman Versus the Vampire, Part 2" 
+1939-11 | DC1  33 | "The Batman Wars Against the Dirigible of Doom" 
+1939-12 | DC1  34 | The Batman: "Peril in Paris" 
+1940-01 | DC1  35 | Batman: "The Case of the Ruby Idol" 
+1940-02 | DC1  36 | Batman meets "Professor Hugo Strange" 
+1940-03 | DC1  37 | Batman: "The Screaming House" 
+1940-03 | BM1   1 | "The Legend of the Batman - Who He is, and How he Came to Be" 
+1940-04 | DC1  38 | Batman and "Robin the Boy Wonder" 
+1940-05 | DC1  39 | Batman: "The Horde of the Green Dragon" 
+1940-06 | DC1  40 | Batman, with Robin the Boy Wonder: "The Murders of Clayface" 
+1940-06 | BM1   2 | "The Joker Meets the Cat-Woman" 
+1940-07 | DC1  41 | Batman & Robin: "The Masked Menace of the Boys' School" 
+1940-08 | DC1  42 | Batman: "The Case of the Prophetic Pictures" 
+1940-09 | DC1  43 | Batman: "The Case of the City of Terror" 
+1940-09 | BM1   3 | "The Strange Case of the Diabolical Puppet Master" 
+1940-10 | DC1  44 | Batman: "The Land Behind the Light" 
+1940-11 | DC1  45 | Batman: "The Case of the Laughing Death" 
+1940-12 | DC1  46 | Batman: "Professor Strange's Fear Dust" 
+1940-12 | BM1   4 | "The Case of the Joker's Crime Circus" 
+1941-01 | DC1  47 | Batman: "Money Can't Buy Happiness" 
+1941-02 | DC1  48 | Batman: "The Secret Cavern" 
+1941-03 | DC1  49 | Batman: "Clayface Walks Again" 
+1941-03 | BM1   5 | "The Riddle of the Missing Card" 
+1941-04 | DC1  50 | Batman: "The Case of the Three Devils" 
+1941-05 | DC1  51 | Batman: "The Case of the Mystery Carnival" 
+1941-06 | DC1  52 | Batman: "The Secret of the Jade Box" 
+1941-07 | DC1  53 | Batman: "Viola Vane" 
+1941-08 | DC1  54 | Batman: "Hook Morgan and His Harbor Pirates" 
+1941-09 | DC1  55 | Batman: "The Brain Burglar" 
+1941-09 | BM1   6 | "Murder on Parole" 
+1941-10 | DC1  56 | Batman: "The Stone Idol" 
+1941-11 | DC1  57 | Batman: "Twenty-Four Hours to Live" 
+1941-11 | BM1   7 | "Wanted: Practical Jokers" 
+1941-12 | DC1  58 | Batman: "One of the Most Perfect Frame-Ups" 
+1942-01 | DC1  59 | Batman: "The King of the Jungle" 
+1942-01 | BM1   8 | "Stone Walls Do Not a Prison Make" 
+1942-02 | DC1  60 | Batman: "Case of the Costume-Clad Killers" 
+1942-03 | DC1  61 | Batman: "The Three Racketeers" 
+1942-03 | BM1   9 | "The Four Fates" 
+1942-04 | DC1  62 | Batman: "Laugh, Town, Laugh" 
+1942-05 | DC1  63 | Batman: "A Gentleman in Gotham" 
+1942-05 | BM1  10 | "The Isle That Time Forgot" 
+1942-06 | DC1  64 | Batman: "The Joker Walks the Last Mile" 
+1942-07 | DC1  65 | Batman: "The Cop Who Hated the Batman" 
+1942-07 | BM1  11 | "The Joker's Advertising Campaign" 
+1942-08 | DC1  66 | Batman: "The Crimes of Two-Face" 
+1942-09 | DC1  67 | Batman: "Crime's Early Bird" 
+1942-09 | BM1  12 | "Brothers in Crime" 
+1942-10 | DC1  68 | Batman: "The Man Who Led a Double Life" 
+1942-11 | DC1  69 | Batman: "The Harlequin's Hoax" 
+1942-11 | BM1  13 | "The Batman Plays a Lone Hand" 
+1942-12 | DC1  70 | Batman: "The Man Who Could Read Minds" 
+1943-01 | DC1  71 | Batman: "A Crime a Day" 
+1943-01 | BM1  14 | "The Case Batman Failed To Solve!" 
+1943-02 | DC1  72 | Batman: "License for Larceny" 
+1943-03 | DC1  73 | Batman: "The Scarecrow Returns" 
+1943-03 | BM1  15 | "Your Face Is Your Fortune" 
+1943-04 | DC1  74 | Batman: "Tweedledum and Tweedledee" 
+1943-05 | DC1  75 | Batman: "The Robber Baron" 
+1943-05 | BM1  16 | "The Joker Reforms" 
+1943-06 | DC1  76 | Batman: "Slay 'Em with Flowers" 
+1943-07 | DC1  77 | Batman: "The Crime Clinic" 
+1943-07 | BM1  17 | "The Batman's Biographer" 
+1943-08 | DC1  78 | Batman: "The Bond Wagon" 
+1943-09 | DC1  79 | Batman: "Destiny's Auction" 
+1943-09 | BM1  18 | "The Secret of Hunter's Inn" 
+1943-10 | DC1  80 | Batman: "The End of Two-Face" 
+1943-11 | DC1  81 | Batman: "The Cavalier of Crime" 
+1943-11 | BM1  19 | "Batman Makes a Deadline" 
+1943-12 | DC1  82 | Batman: "Quarterback of Crime" 
+1944-01 | DC1  83 | Batman: "Accidentally on Purpose" 
+1944-01 | BM1  20 | "The Centuries of Crime" 
+1944-02 | DC1  84 | Batman: "Artists in Villainy" 
+1944-02 | BM1  21 | "The Streamlined Rustlers" 
+1944-03 | DC1  85 | Batman: "The Joker's Double" 
+1944-04 | DC1  86 | Batman: "Danger Strikes Three" 
+1944-04 | BM1  22 | "The Duped Domestics" 
+1944-05 | DC1  87 | Batman: "The Man of a Thousand Umbrellas" 
+1944-06 | DC1  88 | Batman: "The Merchants of Misery" 
+1944-06 | BM1  23 | "The Upside Down Crimes" 
+1944-07 | DC1  89 | Batman: "Laboratory Loot" 
+1944-08 | DC1  90 | Batman: "Crime Between the Acts" 
+1944-08 | BM1  24 | "It Happened in Rome" 
+1944-09 | DC1  91 | Batman: "The Case of the Practical Joker" 
+1944-10 | DC1  92 | Batman: "Crime's Manhunt" 
+1944-10 | BM1  25 | "Knights of Knavery" 
+1944-11 | DC1  93 | Batman: "One Night of Crime" 
+1944-12 | DC1  94 | Batman: "No One Must Know" 
+1944-12 | BM1  26 | "Twenty-Ton Robbery!" 
+1945-01 | DC1  95 | Batman: "The Blaze" 
+1945-02 | DC1  96 | Batman: "Alfred, Private Detective" 
+1945-02 | BM1  27 | "The Penguin's Apprentice" 
+1945-03 | DC1  97 | Batman: "The Secret of the Switch" 
+1945-04 | DC1  98 | Batman: "The King of the Hoboes!" 
+1945-04 | BM1  28 | "Shadow City" 
+1945-05 | DC1  99 | Batman: "The Temporary Murders" 
+1945-06 | DC1 100 | Batman: "The Crow's Nest Mystery" 
+1945-06 | BM1  29 | "Enemy No. 1" 
+1945-07 | DC1 101 | Batman: "The Tyrannical Twins" 
+1945-08 | DC1 102 | Batman: "The House That Was Held for Ransom!" 
+1945-08 | BM1  30 | "Back To the Big House" 
+1945-09 | DC1 103 | Batman: "Trouble, Incorporated" 
+1945-10 | DC1 104 | Batman: "The Battle of the Billboards" 
+1945-10 | BM1  31 | "Punch and Judy" 
+1945-11 | DC1 105 | Batman: "The Batman Goes Broke" 
+1945-12 | DC1 106 | Batman: "The Phantom of the Library" 
+1945-12 | BM1  32 | "Rackety-Rax Racket!" 
+1946-01 | DC1 107 | Batman: "The Mountains of the Moon" 
+1946-02 | DC1 108 | Batman: "The Goat of Gotham City!" 
+1946-02 | BM1  33 | "Crime On the Wing" 
+1946-03 | DC1 109 | Batman: "The House that Jokes Built" 
+1946-04 | DC1 110 | Batman: "Batman and Robin in Scotland Yard" 
+1946-04 | BM1  34 | "The Marathon of Menace" 
+1946-05 | DC1 111 | Batman: "Coaltown, U.S.A." 
+1946-06 | DC1 112 | Batman: "The Case Without a Crime" 
+1946-06 | BM1  35 | "Nine Lives has the Catwoman!" 
+1946-07 | DC1 113 | Batman: "Crime on the Half-Shell!" 
+1946-08 | DC1 114 | Batman: "Acrostic of Crime" 
+1946-08 | BM1  36 | "The Penguin's Nest" 
+1946-09 | DC1 115 | Batman: "The Man Who Lived in a Glass House" 
+1946-10 | DC1 116 | Batman: "The Rescue of Robin Hood" 
+1946-10 | BM1  37 | "Calling Dr. Batman" 
+1946-11 | DC1 117 | Batman: "Steeplejack's Showdown" 
+1946-12 | DC1 118 | Batman: "The Royal Flush Crimes" 
+1946-12 | BM1  38 | "Peril In Greece" 
+1947-01 | DC1 119 | Batman: "The Case of the Famous Foes" 
+1947-02 | DC1 120 | Batman: "Fowl Play" 
+1947-02 | BM1  39 | "The Frightened People!" 
+1947-03 | DC1 121 | Batman: "Commissioner Gordon Walks a Beat" 
+1947-04 | DC1 122 | Batman: "The Black Cat Crimes" 
+1947-04 | BM1  40 | "The 13 Club!" 
+1947-05 | DC1 123 | Batman: "The Dawn Patrol Crimes" 
+1947-06 | DC1 124 | Batman: "The Crime Parade" 
+1947-06 | BM1  41 | "The Bird Cage Bandits!" 
+1947-07 | DC1 125 | Batman: "The Citadel of Crime" 
+1947-08 | DC1 126 | Batman: "Case of the Silent Songbirds" 
+1947-08 | BM1  42 | "Claws of the Catwoman!" 
+1947-09 | DC1 127 | Batman: "Pigmies in Giantland" 
+1947-10 | DC1 128 | Batman: "Crime in Reverse" 
+1947-10 | BM1  43 | "The Blackbird of Banditry!" 
+1947-11 | DC1 129 | Batman: "The Isle of Yesterday" 
+1947-12 | DC1 130 | Batman: "The Box" 
+1947-12 | BM1  44 | "Gamble With Doom!" 
+1948-01 | DC1 131 | Batman: "The Underworld Surgeon" 
+1948-02 | DC1 132 | Batman: "The Human Key" 
+1948-02 | BM1  45 | "The Lady Rogues!" 
+1948-03 | DC1 133 | Batman: "The Man Who Could See the Future" 
+1948-04 | DC1 134 | Batman: "The Umbrellas of Crime" 
+1948-04 | BM1  46 | "Guileful Greetings, or, The Joker Sends Regards!" 
+1948-05 | DC1 135 | Batman: "The True Story of Frankenstein" 
+1948-06 | DC1 136 | Batman: "The Dead Man's Chest" 
+1948-06 | BM1  47 | "Fashions In Crime!" 
+1948-07 | DC1 137 | Batman: "The Rebus Crimes" 
+1948-08 | DC1 138 | Batman: "The Invisible Crimes" 
+1948-08 | BM1  48 | "The Fowls of Fate!" 
+1948-09 | DC1 139 | Batman: "The Crimes of Jade!" 
+1948-10 | DC1 140 | Batman: "The Riddler" 
+1948-10 | BM1  49 | "The Prison Doctor!" 
+1948-11 | DC1 141 | Batman: "The Gallery of Public Heroes" 
+1948-12 | DC1 142 | "Crime's Puzzle Contest" 
+1948-12 | BM1  50 | "Lights- Camera- Crime!" 
+1949-01 | DC1 143 | Batman: "The Pied Piper of Peril!" 
+1949-02 | DC1 144 | Batman: "Kay Kyser's Mystery Broadcast" 
+1949-02 | BM1  51 | "Pee-Wee, the Talking Penguin!" 
+1949-03 | DC1 145 | "Robin, the Boy Failure!" 
+1949-04 | DC1 146 | Batman: "Three's a Crime" 
+1949-04 | BM1  52 | "The Man With the Automatic Brain!" 
+1949-05 | DC1 147 | Batman: "Tiger Shark!" 
+1949-06 | DC1 148 | Batman: "The Experiment of Professor Zero" 
+1949-06 | BM1  53 | "A Hairpin, a Hoe, a Hacksaw, a Hole In the Ground!" 
+1949-07 | DC1 149 | Batman: "The Sound-Effect Crimes!" 
+1949-08 | DC1 150 | Batman: "The Ghost of Gotham City!" 
+1949-08 | BM1  54 | "The Treasure Hunter!" 
+1949-09 | DC1 151 | Batman: "I.O.U. My Life" 
+1949-10 | DC1 152 | Batman: "The Goblin of Gotham City" 
+1949-10 | BM1  55 | "The Case of the 48 Jokers!" 
+1949-11 | DC1 153 | Batman: "The Flying Batman" 
+1949-12 | DC1 154 | Batman: "Underground Railroad of Crime" 
+1949-12 | BM1  56 | "Ride, Bat-Hombre, Ride!" 
+1950-01 | DC1 155 | Batman: "Bruce Wayne, Private Detective" 
+1950-02 | DC1 156 | Batman: "The Batmobile of 1950" 
+1950-02 | BM1  57 | "The Trial of Bruce Wayne!" 
+1950-03 | DC1 157 | Batman: "The Race of the Century" 
+1950-04 | DC1 158 | Batman: "The 1,001 Trophies of Batman" 
+1950-04 | BM1  58 | "The State-Bird Crimes!" 
+1950-05 | DC1 159 | Batman: "Bruce Wayne – You Are Batman" 
+1950-06 | DC1 160 | Batman: "The Globe-Trotter of Crime" 
+1950-06 | BM1  59 | "The Man Who Replaced Batman!" 
+1950-07 | DC1 161 | Batman: "The Men Who Died on Time" 
+1950-08 | DC1 162 | Batman: "The Law of the Iron Road" 
+1950-08 | BM1  60 | "Crime Through the Ages!" 
+1950-09 | DC1 163 | Batman: "The Man Who Feared Metal" 
+1950-10 | DC1 164 | Batman: "Untold Tales of the Bat-Signal!" 
+1950-10 | BM1  61 | "The Birth of Batplane II!" 
+1950-11 | DC1 165 | Batman: "The Strange Costumes of Batman!" 
+1950-12 | DC1 166 | Batman: "The Man With a Million Faces" 
+1950-12 | BM1  62 | "The Secret Life of the Catwoman!" 
+1951-01 | DC1 167 | Batman: "Bodyguards to Cleopatra" 
+1951-02 | DC1 168 | Batman: "The Man Behind the Red Hood!" 
+1951-02 | BM1  63 | "The Joker's Crime Costumes!" 
+1951-03 | DC1 169 | Batman: "... -- Boss of the Big House!" 
+1951-04 | DC1 170 | Batman: "The Flying Dutchman II" 
+1951-04 | BM1  64 | "The Candid Camera Killer!" 
+1951-05 | DC1 171 | Batman: "The Menace of the Giant Birds" 
+1951-06 | DC1 172 | Batman: "The Outlaw Who Had Nine Lives" 
+1951-06 | BM1  65 | "A Partner For Batman!" 
+1951-07 | DC1 173 | Batman: "Batman's Double" 
+1951-08 | DC1 174 | Batman: "The Park Avenue Kid" 
+1951-08 | BM1  66 | "The Joker's Comedy of Errors!" 
+1951-09 | DC1 175 | Batman: "The Underworld Bank" 
+1951-10 | DC1 176 | Batman: "The Underworld Crime Committee" 
+1951-10 | BM1  67 | "The Mystery Rope!" 
+1951-11 | DC1 177 | Batman: "The Robberies in the Bat-Cave" 
+1951-12 | DC1 178 | Batman: "The Defeat of Batman!" 
+1951-12 | BM1  68 | "The Atom Cave Raiders!" 
+1952-01 | DC1 179 | Batman: "Mayor Bruce Wayne" 
+1952-02 | DC1 180 | Batman: "The Joker's Millions" 
+1952-02 | BM1  69 | "The Batman Expose!" 
+1952-03 | DC1 181 | Batman: "The Crimes of the Human Magnet" 
+1952-04 | DC1 182 | Batman: "The Human Puppets" 
+1952-04 | BM1  70 | "The Robot Cop of Gotham City" 
+1952-05 | DC1 183 | Batman: "Famous Name Crimes" 
+1952-06 | DC1 184 | Batman: "The Human Firefly" 
+1952-06 | BM1  71 | "The Jail For Heroes!" 
+1952-07 | DC1 185 | Batman: "The Secret of Batman's Utility Belt" 
+1952-08 | DC1 186 | Batman: "The Flying Bat-Cave" 
+1952-08 | BM1  72 | "The Jungle Batman!" 
+1952-09 | DC1 187 | Batman: "The Double Crimes of Two-Face!" 
+1952-10 | DC1 188 | Batman: "The Doom in the Bat-Cave" 
+1952-10 | BM1  73 | "Guns For Hire!" 
+1952-11 | DC1 189 | Batman: "The Undersea Hideout" 
+1952-12 | DC1 190 | Batman: "How to Be the Batman" 
+1952-12 | BM1  74 | "The Crazy Crime Clown!" 
+1953-01 | DC1 191 | Batman: "The Man With a License to Kill" 
+1953-02 | DC1 192 | Batman: "The Phantom Eye of Gotham City" 
+1953-02 | BM1  75 | "Outlaw Town, U.S.A.!" 
+1953-03 | DC1 193 | Batman: "The Joker's Journal" 
+1953-04 | DC1 194 | Batman: "The Stolen Bank" 
+1953-04 | BM1  76 | "The Danger Club" 
+1953-05 | DC1 195 | Batman: "The Original Batman" 
+1953-06 | DC1 196 | Batman: "City Without Guns" 
+1953-06 | BM1  77 | "The Crime Predictor" 
+1953-07 | DC1 197 | Batman: "The League Against Batman" 
+1953-08 | DC1 198 | Batman: "The Lord of Batmanor" 
+1953-08 | BM1  78 | "The Manhunter From Mars!" 
+1953-09 | DC1 199 | Batman: "The Invisible Batman" 
+1953-10 | DC1 200 | Batman: "Radio Station C-R-I-M-E!" 
+1953-10 | BM1  79 | "Bride of Batman!" 
+1953-11 | DC1 201 | Batman: "The Human Target" 
+1953-12 | DC1 202 | Batman: "Millionaire Island" 
+1953-12 | BM1  80 | "The Joker's Movie Crimes!" 
+1954-01 | DC1 203 | Batman: "The Crimes of the Catwoman!" 
+1954-02 | DC1 204 | Batman: "The Man Who Could Live Forever" 
+1954-02 | BM1  81 | "Two-Face Strikes Again!" 
+1954-03 | DC1 205 | Batman: "The Origin of the Bat-Cave!" 
+1954-03 | BM1  82 | "The Flying Batman" 
+1954-04 | DC1 206 | Batman: "The Trapper of Gotham City" 
+1954-04 | BM1  83 | "The Duplicate Batman!" 
+1954-05 | DC1 207 | "Batman the Magician" 
+1954-06 | DC1 208 | "The Nine Worlds of Batman" 
+1954-06 | BM1  84 | "The Valley of the Giant Bees!" 
+1954-07 | DC1 209 | "The Man Who Shadowed Batman!" 
+1954-08 | DC1 210 | Batman: "The Brain That Ruled Gotham City" 
+1954-08 | BM1  85 | "Batman--Clown of Crime!" 
+1954-09 | DC1 211 | Batman: "The Jungle Cat Queen!" 
+1954-09 | BM1  86 | "The Voyage of the First Batmarine!" 
+1954-10 | DC1 212 | Batman: "The Puppet Master" 
+1954-10 | BM1  87 | "Batman's Greatest Thrills!" 
+1954-11 | DC1 213 | Batman: "The Mysterious Mirror-Man!" 
+1954-12 | DC1 214 | Batman: "The Batman Encylopedia" 
+1954-12 | BM1  88 | "The Mystery of the Four Batmen!" 
+1955-01 | DC1 215 | Batman: "The Batmen of All Nations" 
+1955-02 | DC1 216 | Batman: "The Batman of Tomorrow" 
+1955-02 | BM1  89 | "The River Rogues" 
+1955-03 | DC1 217 | Batman: "The Mental Giant of Gotham City" 
+1955-03 | BM1  90 | "The Web of Doom!" 
+1955-04 | DC1 218 | Batman: "Batman, Junior and Robin, Senior" 
+1955-04 | BM1  91 | "The Living Bat-Plane!" 
+1955-05 | DC1 219 | Batman: "Gotham City's Strangest Race" 
+1955-06 | DC1 220 | Batman: "The Second Batman and Robin Team!" 
+1955-06 | BM1  92 | "Fan-Mail of Danger!" 
+1955-07 | DC1 221 | Batman: "The Thousand-and-One Escapes of Batman and Robin!" 
+1955-08 | DC1 222 | Batman: "The Great Batman Swindle!" 
+1955-08 | BM1  93 | "Journey To the Top of the World!" 
+1955-09 | DC1 223 | Batman: "The Batman Dime-Museum" 
+1955-09 | BM1  94 | "The Sign of the Bat!" 
+1955-10 | DC1 224 | Batman: "The Batman Machine" 
+1955-10 | BM1  95 | "The Guardian of 100 Cities!" 
+1955-11 | DC1 225 | Batman: "If I Were Batman" 
+1955-12 | DC1 226 | Batman: "When Batman Was Robin" 
+1955-12 | BM1  96 | "His Majesty, King Batman" 
+1956-01 | DC1 227 | Batman: "The 50 Faces of Batman" 
+1956-02 | DC1 228 | Batman: "The Outlaw Batman" 
+1956-02 | BM1  97 | "The Joker Announces Danger" 
+1956-03 | DC1 229 | Batman: "The 10,000 Secrets of Batman!" 
+1956-03 | BM1  98 | "The Return of Mister Future" 
+1956-04 | DC1 230 | Batman: "The Mad Hatter of Gotham City" 
+1956-04 | BM1  99 | "The Golden Eggs!" 
+1956-05 | DC1 231 | Batman: "Batman, Junior" 
+1956-06 | DC1 232 | Batman: "The Outlaw Who Played Batman" 
+1956-06 | BM1 100 | "Batmantown, U.S.A." 
+1956-07 | DC1 233 | Batman: "The Batwoman" 
+1956-08 | DC1 234 | "Batman and Robin's Greatest Mystery" 
+1956-08 | BM1 101 | "The Vanished Batman" 
+1956-09 | DC1 235 | Batman: "The First Batman" 
+1956-09 | BM1 102 | "The House of Batman" 
+1956-10 | DC1 236 | Batman: "The New-Model Batman" 
+1956-10 | BM1 103 | "The Broken Batman Trophies" 
+1956-11 | DC1 237 | Batman: "Search for a New Robin" 
+1956-12 | DC1 238 | Batman: "The Doors That Hid Disaster" 
+1956-12 | BM1 104 | "The Man Who Knew Batman's Secret" 
+1957-01 | DC1 239 | "Batman's Robot Twin!" 
+1957-02 | DC1 240 | Batman: "The Outlaw Batman" 
+1957-02 | BM1 105 | "The Challenge of Batwoman" 
+1957-03 | DC1 241 | Batman: "The Rainbow Batman" 
+1957-03 | BM1 106 | "Batman's Secret Helper" 
+1957-04 | DC1 242 | Batman: "The Underworld Bat-Cave" 
+1957-04 | BM1 107 | "The Boy Who Adopted Batman" 
+1957-05 | DC1 243 | Batman: "Batman the Giant!" 
+1957-06 | DC1 244 | Batman: "The 100 Batarangs of Batman" 
+1957-06 | BM1 108 | "The Big Batman Quiz" 
+1957-07 | DC1 245 | Batman: "The Dynamic Trio" 
+1957-08 | DC1 246 | Batman: "Murder at Mystery Castle" 
+1957-08 | BM1 109 | "Three Crimes Against Batman" 
+1957-09 | DC1 247 | Batman: "The Man Who Ended Batman's Career" 
+1957-09 | BM1 110 | "Crime-of-the-Month Club!" 
+1957-10 | DC1 248 | Batman: "Around the World in 8 Days" 
+1957-10 | BM1 111 | "The Gotham City Safari" 
+1957-11 | DC1 249 | Batman: "The Crime of Bruce Wayne" 
+1957-12 | DC1 250 | "Batman's Super-Enemy" 
+1957-12 | BM1 112 | "The Signalman of Crime" 
+1958-01 | DC1 251 | "The Alien Batman" 
+1958-02 | DC1 252 | "The Creature from the Green Lagoon" 
+1958-02 | BM1 113 | "The Menace of False Face" 
+1958-03 | DC1 253 | Batman: "The Fox, the Shark, and the Vulture" 
+1958-03 | BM1 114 | "The Secret of Mechanical City" 
+1958-04 | DC1 254 | "One Ounce of Doom!" 
+1958-04 | BM1 115 | "The Million Dollar Clues" 
+1958-05 | DC1 255 | "Death in Dinosaur Hall" 
+1958-06 | DC1 256 | "The Captive Planet" 
+1958-06 | BM1 116 | "The City of Ancient Heroes" 
+1958-07 | DC1 257 | "Batman's Invincible Foe" 
+1958-08 | DC1 258 | "Prisoners of the Giant Robots" 
+1958-08 | BM1 117 | "The Mystery of the Batman Bus" 
+1958-09 | DC1 259 | "The Challenge of the Calendar Man" 
+1958-09 | BM1 118 | "The Battle of Police Island" 
+1958-10 | DC1 260 | Batman: "The Mystery of the Space Olympics" 
+1958-10 | BM1 119 | "The Arch-Rivals of Gotham City" 
+1958-11 | DC1 261 | Batman: "The Amazing Dr. Double X!" 
+1958-12 | DC1 262 | Batman: "The Jackal of the Underworld!!" 
+1958-12 | BM1 120 | "The Curse of the Bat-Ring" 
+1959-01 | DC1 263 | Batman: "The Secret of the Fantastic Weapons" 
+1959-02 | DC1 264 | Batman: "Peril at Playland Isle" 
+1959-02 | BM1 121 | "The Body in the Bat-Cave" 
+1959-03 | DC1 265 | Batman: "Batman's First Case" 
+1959-03 | BM1 122 | "Prisoners of the Sargasso Sea" 
+1959-04 | DC1 266 | Batman: "The Satellite of Gotham City" 
+1959-04 | BM1 123 | "The Secret of the Everglades" 
+1959-05 | DC1 267 | Batman: "... Meets Bat-Mite" 
+1959-06 | DC1 268 | Batman: "The Power That Doomed Batman" 
+1959-06 | BM1 124 | "The Invisible Batman" 
+1959-07 | DC1 269 | Batman: "The Thousand Deaths of Batman!" 
+1959-08 | DC1 270 | Batman: "The Creature from Planet X" 
+1959-08 | BM1 125 | "The Secret Life of Bat-Hound" 
+1959-09 | DC1 271 | Batman and Robin: "Batman's Armored Rival" 
+1959-09 | BM1 126 | "The Mystery of the 49th Star" 
+1959-10 | DC1 272 | Batman: "The Crystal Creature" 
+1959-10 | BM1 127 | "Batman's Super-Partner" 
+1959-11 | DC1 273 | Batman: "The Secret of the Dragon Society" 
+1959-12 | DC1 274 | Batman and Robin: "The Hermit of Mystery Island" 
+1959-12 | BM1 128 | "The Interplanetary Batman" 
+1960-01 | DC1 275 | Batman: "The Zebra Batman" 
+1960-02 | DC1 276 | "The Return of Bat-Mite" 
+1960-02 | BM1 129 | "The Web of the Spinner" 
+1960-03 | DC1 277 | Batman: "The Jigsaw Menace from Space" 
+1960-03 | BM1 130 | "Batman's Deadly Birthday" 
+1960-04 | DC1 278 | "The Man Who Became a Giant" 
+1960-04 | BM1 131 | "The Dog that Betrayed Batman" 
+1960-05 | DC1 279 | "The Creatures That Stalked Batman" 
+1960-06 | DC1 280 | Batman: "The Menace of the Atomic Man" 
+1960-06 | BM1 132 | "The Martian from Gotham City" 
+1960-07 | DC1 281 | Batman: "Batman, Robot" 
+1960-08 | DC1 282 | Batman: "Batman's Interplanetary Rival" 
+1960-08 | BM1 133 | "Crimes of the Kite Man" 
+1960-09 | DC1 283 | Batman: "The Phantom of Gotham City" 
+1960-09 | BM1 134 | "The Rainbow Creature" 
+1960-10 | DC1 284 | Batman: "The Negative Batman" 
+1960-10 | BM1 135 | "Crimes of the Wheel" 
+1960-11 | DC1 285 | Batman: "The Mystery of the Man-Beast" 
+1960-12 | DC1 286 | "The Doomed Batwoman" 
+1960-12 | BM1 136 | "The Case of the Crazy Crimes" 
+1961-01 | DC1 287 | "The Raven and the Wasp" 
+1961-02 | DC1 288 | "Batman: The Menace of the Multiple Creature" 
+1961-02 | BM1 137 | "Robin's New Boss" 
+1961-03 | DC1 289 | "The Bat-Mite Bandits" 
+1961-03 | BM1 138 | "Batman's Master" 
+1961-04 | DC1 290 | Batman: "Robin's Robot" 
+1961-04 | BM1 139 | "The Blue Bowman" 
+1961-05 | DC1 291 | "The Creature from the Bat-Cave" 
+1961-06 | DC1 292 | "The Colossus of Gotham City" 
+1961-06 | BM1 140 | "The Ghost of the Joker" 
+1961-07 | DC1 293 | "Prisoners Of The Dark World!" 
+1961-08 | DC1 294 | "The Villain of 100 Elements" 
+1961-08 | BM1 141 | "The Crimes of the Clockmaster" 
+1961-09 | DC1 295 | "Secret of the Beast Paintings" 
+1961-09 | BM1 142 | "Batman's Robot-Guardian" 
+1961-10 | DC1 296 | "Menace of the Planet Master" 
+1961-10 | BM1 143 | "The Twice-Told Tale of Batman and Robin" 
+1961-11 | DC1 297 | "The Beast of Koba Bay" 
+1961-12 | DC1 298 | "The Challenge of Clay-Face" 
+1961-12 | BM1 144 | "The Alien Feud on Earth" 
+1962-01 | DC1 299 | "Prey of the Alien Hunters" 
+1962-02 | DC1 300 | Batman: "The Bizarre Polka-Dot Man" 
+1962-02 | BM1 145 | "Hunt for Mr. 50" 
+1962-03 | DC1 301 | "The Condemned Batman" 
+1962-03 | BM1 146 | "Batman and Robin's Magical Powers" 
+1962-04 | DC1 302 | "The Bronze Menace" 
+1962-05 | DC1 303 | "Murder in Skyland!" 
+1962-05 | BM1 147 | "The Plants of Plunder" 
+1962-06 | DC1 304 | "The Return of Clayface" 
+1962-06 | BM1 148 | "The Alien Force Twins" 
+1962-07 | DC1 305 | "Targets of the Alien Z-Ray" 
+1962-08 | DC1 306 | Batman: "The Wizard of 1,000 Menaces" 
+1962-08 | BM1 149 | "The Maestro of Crime" 
+1962-09 | DC1 307 | Batman: "Alpha, the Experimental Man!" 
+1962-09 | BM1 150 | "The Secret Behind the Stone Door" 
+1962-10 | DC1 308 | Batman: "The Flame-Master" 
+1962-11 | DC1 309 | Batman: "The Mystery of the Mardi Gras Murders" 
+1962-11 | BM1 151 | "Batman's New Secret Identity!" 
+1962-12 | DC1 310 | Batman: "Bat-Mite's Super-Circus!" 
+1962-12 | BM1 152 | "Formula for Doom" 
+1963-01 | DC1 311 | Batman: "Challenge of the Cat-Man!" 
+1963-02 | DC1 312 | Batman: "The Secret of Clayface's Power" 
+1963-02 | BM1 153 | "Prisoners of Three Worlds" 
+1963-03 | DC1 313 | Batman: "The Mystery of the $1,000,000 Treasure Hunt" 
+1963-03 | BM1 154 | "Danger Strikes Four" 
+1963-04 | DC1 314 | Batman: "Murder in Movieland" 
+1963-05 | DC1 315 | Batman: "The Jungle Man of Gotham City" 
+1963-05 | BM1 155 | "Batman's Psychic Twin" 
+1963-06 | DC1 316 | Batman: "Double Batman vs. Double X" 
+1963-06 | BM1 156 | "The Secret of the Ant-Man" 
+1963-07 | DC1 317 | Batman: "The Secrets of the Flying Bat-Cave" 
+1963-08 | DC1 318 | Batman: "The Cat-Man Strikes Back" 
+1963-08 | BM1 157 | "The Villain of the Year" 
+1963-09 | DC1 319 | Batman: "The Fantastic Dr. No-Face" 
+1963-09 | BM1 158 | "Ace - the Super Bat-Hound" 
+1963-10 | DC1 320 | Batman and Robin: "The Mummy Crime-Fighters" 
+1963-11 | DC1 321 | Batman: "The Terrible Trio" 
+1963-11 | BM1 159 | "The Great Clayface - Joker Feud" 
+1963-12 | DC1 322 | Batman: "The Bizarre Batman-Genie" 
+1963-12 | BM1 160 | "The Mystery of Madcap Island" 
+1964-01 | DC1 323 | Batman: "The Zodiac Master" 
+1964-02 | DC1 324 | Batman: "Menace of the Robot Brain!" 
+1964-02 | BM1 161 | "The New Crimes of the Mad Hatter" 
+1964-03 | DC1 325 | Batman: "The Strange Lives of the Cat-Man" 
+1964-03 | BM1 162 | "The Batman Creature" 
+1964-04 | DC1 326 | "Captives of the Alien Zoo!" 
+1964-05 | DC1 327 | Batman: "The Mystery of the Menacing Mask!" 
+1964-05 | BM1 163 | "Bat-Girl -- Batwoman II!" 
+1964-06 | DC1 328 | "Gotham Gang Line-Up!" 
+1964-06 | BM1 164 | "Two-Way Gem Caper!" 
+1964-07 | DC1 329 | "Castle With Wall-To-Wall Danger!" 
+1964-08 | DC1 330 | Batman: "The Fallen Idol of Gotham City!" 
+1964-08 | BM1 165 | "The Man Who Quit the Human Race!" 
+1964-09 | DC1 331 | "Museum of Mixed-Up Men!" 
+1964-09 | BM1 166 | "Two-Way Death Trap!" 
+1964-10 | DC1 332 | "The Joker's Last Laugh!" 
+1964-11 | DC1 333 | "Hunters of the Elephants' Graveyard!" 
+1964-11 | BM1 167 | "Zero Hour for Earth!" 
+1964-12 | DC1 334 | "The Man Who Stole From Batman!" 
+1964-12 | BM1 168 | "The Fight That Jolted Gotham City!" 
+1965-01 | DC1 335 | "Trail of the Talking Mask!" 
+1965-02 | DC1 336 | "Batman's Bewitched Nightmare" 
+1965-02 | BM1 169 | "Partners in Plunder!" 
+1965-03 | DC1 337 | "Deep Freeze Menace!" 
+1965-03 | BM1 170 | "Genius of the Getaway Gimmicks!" 
+1965-04 | DC1 338 | "Batman's Super-Powered Punch!" 
+1965-05 | DC1 339 | "Batman Battles the Living Beast-Bomb!" 
+1965-05 | BM1 171 | "Remarkable Ruse of the Riddler!" 
+1965-06 | DC1 340 | Batman: "The Outsider Strikes Again!" 
+1965-06 | BM1 172 | "Attack of the Invisible Knights!" 
+1965-07 | DC1 341 | "The Joker's Comedy Capers!" 
+1965-08 | DC1 342 | "The Midnight Raid of the Robin Gang!" 
+1965-08 | BM1 173 | "Secret Identities For Sale!" 
+1965-09 | DC1 343 | "The Secret War of the Phantom General!" 
+1965-09 | BM1 174 | "The Human Punching Bag!" 
+1965-10 | DC1 344 | "The Crime-Boss Who Was Always One Step Ahead of Batman!" 
+1965-11 | DC1 345 | "The Blockbuster Invasion of Gotham City!" 
+1965-11 | BM1 175 | "The Decline and Fall of Batman!" 
+1965-12 | DC1 346 | "Batman's Inescapable Doom-Trap!" 
+1965-12 | BM1 176 | "The Parasols of Plunder" 
+1965-12 | BM1 177 | "Two Batmen Too Many!" 
+1966-01 | DC1 347 | Batman: "The Strange Death of Batman!" 
+1966-02 | DC1 348 | Batman: "Birdmaster of Bedlam!" 
+1966-02 | BM1 178 | "Raid of the Rocketeers" 
+1966-03 | DC1 349 | Batman: "The Blockbuster Breaks Loose!" 
+1966-03 | BM1 179 | "Clay Pigeon For a Killer!" 
+1966-04 | DC1 350 | Batman: "The Monarch of Menace!" 
+1966-05 | DC1 351 | Batman: "The Cluemaster's Topsy-Turvy Crimes!" 
+1966-05 | BM1 180 | "Death Knocks Three Times!" 
+1966-06 | DC1 352 | Batman: "Batman's Crime-Hunt a Go-Go!" 
+1966-06 | BM1 181 | "Beware of -- Poison Ivy!" 
+1966-07 | DC1 353 | Batman: "The Weather Wizard's Triple Treasure Thefts!" 
+1966-07 | BM1 182 | "The Villain of 100 Elements" 
+1966-08 | DC1 354 | Batman: "No Exit For Batman!" 
+1966-08 | BM1 183 | "A Touch of Poison Ivy!" 
+1966-09 | DC1 355 | Batman: "Hate of the Hooded Hangman!" 
+1966-09 | BM1 184 | "Mystery of the Missing Manhunters!" 
+1966-10 | DC1 356 | Batman: "The Inside Story of the Outsider!" 
+1966-10 | BM1 185 | "Batman Junior!" 
+1966-11 | DC1 357 | Batman: "Bruce Wayne Unmasks Batman!" 
+1966-11 | BM1 186 | "The Joker's Original Robberies!" 
+1966-12 | DC1 358 | Batman: "The Circle of Terror!" 
+1966-12 | BM1 188 | "The Eraser Who Tried to Rub Out Batman!" 
+1967-01 | DC1 359 | Batman: "The Million Dollar Debut of Batgirl!" 
+1967-01 | BM1 187 | "Batman's First Case" 
+1967-02 | DC1 360 | Batman: "The Case of the Abbreviated B A T M A N!" 
+1967-02 | BM1 189 | "Fright of the Scarecrow!" 
+1967-03 | DC1 361 | Batman: "The Dynamic Duo's Double-Deathtrap!" 
+1967-03 | BM1 190 | "The Penguin Takes a Flyer -- Into the Future!" 
+1967-04 | DC1 362 | Batman: "The Night Batman Destroyed Gotham City" 
+1967-05 | DC1 363 | Batman: "The True-False Face of Batman" 
+1967-05 | BM1 191 | "The Day Batman Sold Out!" 
+1967-06 | DC1 364 | Batman: "The Curious Case of the Crime-less Clues!" 
+1967-06 | BM1 192 | "The Crystal Ball That Betrayed Batman!" 
+1967-07 | DC1 365 | Batman: "The House the Joker Built!" 
+1967-07 | BM1 193 | "Ride Bat-Hombre, Ride!" 
+1967-08 | DC1 366 | Batman: "The Round-Robin Death Threats!" 
+1967-08 | BM1 194 | "The Blockbuster Goes Bat-Mad!" 
+1967-09 | DC1 367 | Batman: "Where There's a Will -- There's a Slay!" 
+1967-09 | BM1 195 | "The Spark-Spangled See-Through Man!" 
+1967-10 | DC1 368 | Batman: "The 7 Wonder Crimes of Gotham City!" 
+1967-11 | DC1 369 | Batman: "Batgirl Breaks Up the Dynamic Duo" 
+1967-11 | BM1 196 | "The Psychic Super-Sleuth!" 
+1967-12 | DC1 370 | Batman: "The Nemesis from Batman's Boyhood!" 
+1967-12 | BM1 197 | "Catwoman Sets Her Claws For Batman" 
+1968-01 | DC1 371 | Batman & Robin: "Batgirl's Costume Cut-Ups" 
+1968-01 | BM1 198 | "The Origin of Batman!" 
+1968-02 | DC1 372 | "The Fearsome Foot-Fighters!" 
+1968-02 | BM1 199 | "Peril of the Poison Rings!" 
+1968-03 | DC1 373 | "Mr. Freeze's Chilling Deathtrap!" 
+1968-03 | BM1 200 | "The Man Who Radiated Fear!" 
+1968-04 | DC1 374 | "Hunt for a Robin-Killer!" 
+1968-05 | DC1 375 | "The Frigid Finger of Fate!" 
+1968-05 | BM1 201 | "Batman's Gangland Guardians!" 
+1968-06 | DC1 376 | "Batman -- Hunted or Haunted?" 
+1968-06 | BM1 202 | "Gateway to Death!" 
+1968-07 | DC1 377 | "The Riddler's Prison-Puzzle Problem!" 
+1968-07 | BM1 203 | "The 1,000 Secrets of the Bat-Cave!" 
+1968-08 | DC1 378 | "Batman! Drop Dead... Twice!" 
+1968-08 | BM1 204 | "Operation Blindfold!" 
+1968-09 | DC1 379 | "Two Killings for the Price of One!" 
+1968-09 | BM1 205 | "Blind As a ... Bat?" 
+1968-10 | DC1 380 | Batman: "Marital-Bliss Miss!" 
+1968-11 | DC1 381 | Batman and Robin: "One Drown -- One More to Go!" 
+1968-11 | BM1 206 | "Batman Walks the Last Mile!" 
+1968-12 | DC1 382 | Batman and Robin: "Riddle of the Robbin' Robin!" 
+1968-12 | BM1 207 | "The Doomsday Ball!" 
+1969-01 | DC1 383 | Batman: "The Fortune-Cookie Caper!" 
+1969-02 | DC1 384 | Batman: "Whatever Will Happen to Heiress Heloise?" 
+1969-02 | BM1 208 | "The Women in Batman's Life!" 
+1969-02 | BM1 209 | "Jungle Jeopardy" 
+1969-03 | DC1 385 | Batman: "Die Small -- Die Big!" 
+1969-03 | BM1 210 | "The Case of the Purr-loined Pearl!" 
+1969-04 | DC1 386 | Batman: "Stand-In for Murder" 
+1969-05 | DC1 387 | Batman and Robin: "The Cry of Night is -- 'Sudden Death!' " 
+1969-05 | BM1 211 | "Batman's Big Blow-Off!" 
+1969-06 | DC1 388 | Batman and Robin:  "Public Luna-Tic Number One!" 
+1969-06 | BM1 212 | "Baffling Deaths of the Crime-Czar!" 
+1969-07 | DC1 389 | Batman: "Batman's Evil Eye" 
+1969-08 | DC1 390 | Batman: "If the Coffin Fits -- Wear It!" 
+1969-08 | BM1 213 | "The Origin of Robin!" 
+1969-08 | BM1 214 | "Batman's Marriage Trap" 
+1969-09 | DC1 391 | Batman: "The Gal Most Likely to Be -- Batman's Widow!" 
+1969-09 | BM1 215 | "Call Me Master!" 
+1969-10 | DC1 392 | Batman: "I Died... A Thousand Deaths" 
+1969-11 | DC1 393 | Batman and Robin: "The Combo Caper!" 
+1969-11 | BM1 216 | "Angel -- Or Devil?" 
+1969-12 | DC1 394 | "A Victim's Victim!" 
+1969-12 | BM1 217 | "One Bullet Too Many!" 
+1970-01 | DC1 395 | "The Secret of the Waiting Graves" 
+1970-02 | DC1 396 | "The Brain Pickers!" 
+1970-02 | BM1 218 | "Batman and Robin's Greatest Mystery" 
+1970-02 | BM1 219 | "Death Casts the Deciding Vote" 
+1970-03 | DC1 397 | "Paint a Picture of Peril!" 
+1970-03 | BM1 220 | "This Murder Has Been ... Pre-Recorded!" 
+1970-04 | DC1 398 | "The Poison-Pen Puzzle!" 
+1970-05 | DC1 399 | "Death Comes to a Small Locked Room!" 
+1970-05 | BM1 221 | "A Bat-Death for Batman!" 
+1970-06 | DC1 400 | Batman: "Challenge of the Man-Bat!" 
+1970-06 | BM1 222 | "Dead...Till Proven Alive!" 
+1970-07 | DC1 401 | "Target For Tonight!" 
+1970-08 | DC1 402 | "Man or Bat?" 
+1970-08 | BM1 223 | "City without Guns" 
+1970-08 | BM1 224 | "Carnival of the Cursed" 
+1970-09 | DC1 403 | "You Die By Mourning" 
+1970-09 | BM1 225 | "Wanted for Murder-One, the Batman" 
+1970-10 | DC1 404 | "Ghost of the Killer Skies!" 
+1970-11 | DC1 405 | "The First of the Assassins!" 
+1970-11 | BM1 226 | "The Man with Ten Eyes!" 
+1970-12 | DC1 406 | "Your Servant of Death -- Dr. Darrk!" 
+1970-12 | BM1 227 | "The Demon of Gothos Mansion!" 
+1971-01 | DC1 407 | "Marriage: Impossible" 
+1971-02 | DC1 408 | "The House that Haunted Batman" 
+1971-02 | BM1 228 | "Outlaw Town, U.S.A.!" 
+1971-02 | BM1 229 | "Asylum of the Futurians!" 
+1971-03 | DC1 409 | "Man in the Eternal Mask!" 
+1971-03 | BM1 230 | "Take-Over of Paradise!" 
+1971-04 | DC1 410 | Batman: "A Vow From the Grave!" 
+1971-05 | DC1 411 | "Into the Den of the Death-Dealers!" 
+1971-05 | BM1 231 | "Blind Rage of the Ten-Eyed Man!" 
+1971-06 | DC1 412 | "Legacy of Hate" 
+1971-06 | BM1 232 | "Daughter of the Demon" 
+1971-07 | DC1 413 | "Freakout at Phantom Hollow!" 
+1971-08 | DC1 414 | "Legend of the Key Hook Light House" 
+1971-08 | BM1 233 | "The Death Cheaters of Gotham City!" 
+1971-08 | BM1 234 | "Half an Evil" 
+1971-09 | DC1 415 | "Challenge of the Consumer Crusader" 
+1971-09 | BM1 235 | "Swamp Sinister" 
+1971-10 | DC1 416 | "Man-Bat Madness!" 
+1971-11 | DC1 417 | "Batman For a Night!" 
+1971-11 | BM1 236 | "Wail of the Ghost-Bride!" 
+1971-12 | DC1 418 | "... And Be a Villain!" 
+1971-12 | BM1 237 | "Night of the Reaper!"  (Halloween)
+1972-01 | DC1 419 | "Secret of the Slaying Statues" 
+1972-01 | BM1 238 | "The Masterminds of Crime!" 
+1972-02 | DC1 420 | Batman: "Forecast for Tonight... Murder" 
+1972-02 | BM1 239 | "Silent Night, Deadly Night!" 
+1972-03 | DC1 421 | "Blind Justice... Blind Fear!" 
+1972-03 | BM1 240 | "Vengeance for a Dead Man!" 
+1972-04 | DC1 422 | "Highway to Nowhere!" 
+1972-05 | DC1 423 | "The Most Dangerous Twenty Miles in Gotham City" 
+1972-05 | BM1 241 | "At Dawn Dies Mary MacGuffin!" 
+1972-06 | DC1 424 | "Double-Cross -- Fire!" 
+1972-06 | BM1 242 | "Bruce Wayne -- Rest in Peace!" 
+1972-07 | DC1 425 | "The Stage Is Set... For Murder!" 
+1972-08 | DC1 426 | "Killer's Roulette!" 
+1972-08 | BM1 243 | "The Lazarus Pit!" 
+1972-09 | DC1 427 | "A Small Case of Murder!" 
+1972-09 | BM1 244 | "The Demon Lives Again!" 
+1972-10 | DC1 428 | Batman: "The Toughest Cop in Gotham!" 
+1972-10 | BM1 245 | "The Bruce Wayne Murder Case!" 
+1972-11 | DC1 429 | "Man-Bat Over Vegas!" 
+1972-12 | DC1 430 | Batman: "Clue of the False Faces!" 
+1972-12 | BM1 246 | "How Many Ways Can a Robin Die?" 
+1973-01 | DC1 431 | "This Murder Has Been Censored" 
+1973-02 | DC1 432 | "The Great Rip-Off Mystery!" 
+1973-02 | BM1 247 | "Merry Christmas" 
+1973-03 | DC1 433 | "Killer in the Smog!" 
+1973-04 | DC1 434 | "The Spook That Stalked Batman!" 
+1973-04 | BM1 248 | "Death-Knell for a Traitor!" 
+1973-06 | DC1 435 | "The Spook Strikes Again!" 
+1973-06 | BM1 249 | "The Citadel of Crime" 
+1973-07 | BM1 250 | "The Deadly Numbers Game!" 
+1973-09 | DC1 436 | "The Night Has a Thousand Fears!" 
+1973-09 | BM1 251 | "The Joker's Five-Way Revenge!" 
+1973-10 | BM1 252 | "The Spook's Master Stroke!" 
+1973-11 | DC1 437 | "Deathmask!" 
+1973-11 | BM1 253 | "Who Knows What Evil?" 
+1974-01 | DC1 438 | "A Monster Walks Wayne Manor!" 
+1974-02 | BM1 254 | "King of the Gotham Jungle!" 
+1974-03 | DC1 439 | "Night of the Stalker!" 
+1974-04 | BM1 255 | "Moon of the Wolf" 
+1974-05 | DC1 440 | Batman: "Ghost Mountain Midnight!" 
+1974-06 | BM1 256 | "Catwoman's Circus Caper!" 
+1974-07 | DC1 441 | Batman: "Judgment Day" 
+1974-08 | BM1 257 | "Hail Emperor Penguin!" 
+1974-09 | DC1 442 | Batman: "Death Flies the Haunted Sky!" 
+1974-10 | BM1 258 | "Threat of the Two-Headed Coin!" 
+1974-11 | DC1 443 | Batman and Manhunter: "Gotterdammerung" 
+1974-12 | BM1 259 | "The Night of the Shadow!" 
+1975-01 | DC1 444 | Batman: "Bat-Murderer!" 
+1975-02 | BM1 260 | "This One'll Kill You, Batman!" 
+1975-03 | DC1 445 | Batman: "Break-In at the Big House" 
+1975-03 | BM1 261 | "The Mystery That Never Was!" 
+1975-04 | DC1 446 | "Slaughter in Silver" 
+1975-04 | BM1 262 | "The Scarecrow's Trail of Fear!" 
+1975-05 | DC1 447 | "Enter: The Creeper" 
+1975-05 | BM1 263 | "Riddler on the Move!" 
+1975-06 | DC1 448 | "Bedlam Beneath the Big Top!" 
+1975-06 | BM1 264 | "Death of a Daredevil" 
+1975-07 | DC1 449 | "Midnight Rustler of Gotham City" 
+1975-07 | BM1 265 | "Batman's Greatest Failure!" 
+1975-08 | DC1 450 | Batman: "The Cape and Cowl Deathtrap" 
+1975-08 | BM1 266 | "The Curious Case of the Catwoman's Coincidences!" 
+1975-09 | DC1 451 | Batman: "The Batman's Burden" 
+1975-09 | BM1 267 | "Invitation to a Murder!" 
+1975-10 | DC1 452 | Batman: "Crackdown on the Crime Exchange" 
+1975-10 | BM1 268 | "Murder Masquerade!" 
+1975-11 | DC1 453 | Batman: "The Deadly Web of the Crime Exchange!" 
+1975-11 | BM1 269 | "The Daily Death of Terry Tremayne" 
+1975-12 | DC1 454 | Batman: "The Set-Up Caper" 
+1975-12 | BM1 270 | "The Menace of the Fiery Heads!" 
+1976-01 | DC1 455 | Batman: "Heart of a Vampire" 
+1976-01 | BM1 271 | "The Corpse Came C.O.D." 
+1976-02 | DC1 456 | "Death-Kiss!" 
+1976-02 | BM1 272 | "The Underworld Olympics '76!" 
+1976-03 | DC1 457 | "There is No Hope in Crime Alley!" 
+1976-03 | BM1 273 | "The Bank-Shot That Baffled Batman" 
+1976-04 | DC1 458 | "The Real Batman Dies Next!" 
+1976-04 | BM1 274 | "Gotham City Treasure Hunt!" 
+1976-05 | DC1 459 | "A Clue Before Dying!" 
+1976-05 | BM1 275 | "The Ferry Blows at Midnight!" 
+1976-06 | DC1 460 | Batman: "Slow Down -- and Die!" 
+1976-06 | BM1 276 | "The Haunting of the Spook!" 
+1976-07 | DC1 461 | Batman: "Bruce Wayne... Bait in a Bat-Trap" 
+1976-07 | BM1 277 | "The Riddle of the Man Who Walked Backwards!" 
+1976-08 | DC1 462 | Batman: "Kill Batman in Triplicate" 
+1976-08 | BM1 278 | "Stop Me Before I Kill Batman" 
+1976-09 | DC1 463 | Batman: "Death-Web" 
+1976-09 | BM1 279 | "Riddler on the Rampage" 
+1976-10 | DC1 464 | Batman: "The Doomsday Express!" 
+1976-10 | BM1 280 | "The Only Crime in Town!" 
+1976-11 | DC1 465 | Batman: "The Best-Kept Secret in Gotham City!" 
+1976-11 | BM1 281 | "Murder Comes in Black Boxes!" 
+1976-12 | DC1 466 | "Signalman Steals the Spotlight!" 
+1976-12 | BM1 282 | "Four Doorways to Danger!" 
+1977-01 | BM1 283 | "Omega Bomb Target: Gotham City" 
+1977-02 | DC1 467 | "Pick-Up on Gotham 2-4-6" 
+1977-02 | BM1 284 | "If There Were No Batman ... I Would Have to Invent Him!" 
+1977-03 | BM1 285 | "The Mystery of Christmas Lost!" 
+1977-04 | DC1 468 | "Battle of the Thinking Machines" 
+1977-04 | BM1 286 | "The Joker's Playground of Peril!" 
+1977-05 | DC1 469 | "...By Death's Eerie Light!" 
+1977-05 | BM1 287 | "Batman-Ex -- As in Extinct!" 
+1977-06 | DC1 470 | "The Master Plan of Doctor Phosphorus!" 
+1977-06 | BM1 288 | "The Little Men's Hall of Fame!" 
+1977-07 | DC1 471 | "The Dead Yet Live" 
+1977-07 | BM1 289 | "Sign of the Skull" 
+1977-08 | BM1 290 | "Skull Dugger's Killjoy Capers!" 
+1977-09 | DC1 472 | "I Am the Batman!" 
+1977-09 | BM1 291 | "The Testimony of Catwoman"  (Where Were You On The Night Batman Was Killed?)
+1977-10 | BM1 292 | "The Testimony of the Riddler!"  (Where Were You On The Night Batman Was Killed?)
+1977-11 | DC1 473 | "The Malay Penguin" 
+1977-11 | BM1 293 | "The Testimony of Luthor!"  (Where Were You On The Night Batman Was Killed?)
+1977-12 | DC1 474 | "The Deadshot Ricochet" 
+1977-12 | BM1 294 | "Testimony of the Joker!"  (Where Were You On The Night Batman Was Killed?)
+1978-01 | BM1 295 | "The Adventure of the Houdini Whodunit!" 
+1978-02 | DC1 475 | "The Laughing Fish!" 
+1978-02 | BM1 296 | "The Sinister Straws of the Scarecrow" 
+1978-03 | BM1 297 | "The Mad Hatter Goes Straight!" 
+1978-04 | DC1 476 | "Sign of the Joker!" 
+1978-04 | BM1 298 | "The Case of the Crimson Coffin" 
+1978-05 | BM1 299 | "The Island of Purple Mist!" 
+1978-06 | DC1 477 | "The House That Haunted Batman!" 
+1978-06 | BM1 300 | "The Last Batman Story--?" 
+1978-07 | BM1 301 | "The Only Man Batman Ever Killed!" 
+1978-08 | DC1 478 | "The Coming of... Clayface III!" 
+1978-08 | BM1 302 | "The Attack of the Wire-Head Killers" 
+1978-09 | BM1 303 | "Batman's Great Identity Switch" 
+1978-10 | DC1 479 | "If a Man be Made of Clay" 
+1978-10 | BM1 304 | "To Hell With Batman... and Back!" 
+1978-11 | BM1 305 | "Death-Gamble of a Darknight Detective!" 
+1978-12 | DC1 480 | Batman: "The Perfect Fighting Machine" 
+1978-12 | BM1 306 | "Night of Siege" 
+1979-01 | DC1 481 | Batman: "Ticket to Tragedy" 
+1979-01 | BM1 307 | "Dark Messenger of Mercy" 
+1979-02 | BM1 308 | "There'll Be a Cold Time in the Old Town Tonight!" 
+1979-03 | DC1 482 | Batman: "Night of the Body Snatcher" 
+1979-03 | BM1 309 | "Have Yourself a Deadly Little Christmas!" 
+1979-04 | BM1 310 | "The Ghost Who Haunted Batman" 
+1979-05 | DC1 483 | "The Curse Of Crime Alley" 
+1979-05 | BM1 311 | "Dr. Phosphorus Is Back!" 
+1979-06 | BM1 312 | "A Caper a Day Keeps the Batman at Bay!" 
+1979-07 | DC1 484 | "Assault on Olympus!" 
+1979-07 | BM1 313 | "Two for the Money!" 
+1979-08 | BM1 314 | "Once Beaten, Twice Sly!" 
+1979-09 | DC1 485 | "The Vengeance Vow!" 
+1979-09 | BM1 315 | "Danger on the Wing!" 
+1979-10 | BM1 316 | "Color Me Deadly!" 
+1979-11 | DC1 486 | Batman: "Murder by Thunderbolt" 
+1979-11 | BM1 317 | "The 1,001 Clue Caper or Why Did the Riddler Cross the Road?" 
+1979-12 | BM1 318 | "My City Burns at Both Ends -- It Will Not Last the Night!" 
+1980-01 | DC1 487 | Batman: "The Perils of Sergius" 
+1980-01 | BM1 319 | "Never Give Up the Ghost!" 
+1980-02 | BM1 320 | "The Curse of the Inquisitor!" 
+1980-03 | DC1 488 | Batman: "The Spook's Death Sentence For Batman" 
+1980-03 | BM1 321 | "Dreadful Birthday, Dear Joker... !" 
+1980-04 | DC1 489 | Batman: "Creatures of the Night!" 
+1980-04 | BM1 322 | "Chaos -- Coming and Going!" 
+1980-05 | DC1 490 | Batman: "Requiem for a Martyr" 
+1980-05 | BM1 323 | "Shadow of the Cat!" 
+1980-06 | DC1 491 | "The Riddle of the Golden Fleece" 
+1980-06 | BM1 324 | "The Cat Who Would Be King!" 
+1980-07 | DC1 492 | "Vengeance Trail" 
+1980-07 | BM1 325 | "Death -- Twenty Stories High" 
+1980-08 | DC1 493 | "Batman: Riddles in the Dark" 
+1980-08 | BM1 326 | "This Way Lies Madness" 
+1980-09 | DC1 494 | "The Crime Doctor Calls At Midnight!" 
+1980-09 | BM1 327 | "Asylum Sinister!" 
+1980-10 | DC1 495 | "Murder in Quicksilver" 
+1980-10 | BM1 328 | "Double Jeopardy" 
+1980-11 | DC1 496 | "Murder on the Mystery Ship" 
+1980-11 | BM1 329 | "Twice Dies the Batman!" 
+1980-12 | DC1 497 | "Bad Night in Baja" 
+1980-12 | BM1 330 | "Target!" 
+1981-01 | DC1 498 | "Night of the Savage" 
+1981-01 | BM1 331 | "Closed Circuit!" 
+1981-02 | DC1 499 | "Allies in the Shadows" 
+1981-02 | BM1 332 | "Fallout!" 
+1981-03 | DC1 500 | Batman: "To Kill a Legend" 
+1981-03 | BM1 333 | "The China Syndrome!" 
+1981-04 | DC1 501 | "The Man Who Killed Mlle. Marie!" 
+1981-04 | BM1 334 | "Infinity Island!" 
+1981-05 | DC1 502 | "Who Shot Mlle. Marie?" 
+1981-05 | BM1 335 | "Ashes to Ashes!" 
+1981-06 | DC1 503 | "The 6 Days of the Scarecrow" 
+1981-06 | BM1 336 | "While the Bat's Away" 
+1981-07 | DC1 504 | "The Joker's Rumpus Room Revenge!" 
+1981-07 | BM1 337 | "Where Walks a Snowman" 
+1981-08 | DC1 505 | "Werewolf Moon" 
+1981-08 | BM1 338 | "This Sporting Death!" 
+1981-09 | DC1 506 | "Who Dies For The Manikin?" 
+1981-09 | BM1 339 | "A Sweet Kiss of Poison" 
+1981-10 | DC1 507 | "Dressed To Die!" 
+1981-10 | BM1 340 | "A Man Called Mole!" 
+1981-11 | DC1 508 | Batman: "Secret of the Sphinx Sinister" 
+1981-11 | BM1 341 | "The Ghost of Wayne Mansion" 
+1981-12 | DC1 509 | Batman: "Nine Lives Has the Cat..." 
+1981-12 | BM1 342 | "Requiem for a Hero" 
+1982-01 | DC1 510 | Batman: "Head-Hunt by a Mad Hatter" 
+1982-01 | BM1 343 | "A Dagger So Deadly..." 
+1982-02 | DC1 511 | "The 'I' of the Beholder" 
+1982-02 | BM1 344 | "Monster, My Sweet!" 
+1982-03 | DC1 512 | "The Fatal Prescription of Doctor Death!" 
+1982-03 | BM1 345 | "Calling Doctor Death!" 
+1982-04 | DC1 513 | "...Is Better Than None!" 
+1982-04 | BM1 346 | "Half a Hero..." 
+1982-05 | DC1 514 | "Haven!" 
+1982-05 | BM1 347 | "The Shadow of the Batman" 
+1982-06 | DC1 515 | "The Academy of Crime, Part I: College for Killers" 
+1982-06 | BM1 348 | "Shadow Play" 
+1982-07 | DC1 516 | "Final Exams!" 
+1982-07 | BM1 349 | "Blood Sport" 
+1982-08 | DC1 517 | "The Monster in the Mirror" 
+1982-08 | BM1 350 | "Nightmare in Crimson" 
+1982-09 | DC1 518 | "The Millionaire Contract" 
+1982-09 | BM1 351 | "What Stalks the Gotham Night?" 
+1982-10 | DC1 519 | "...Like a Dreadnought in the Sky!" 
+1982-10 | BM1 352 | "The Killer Sky!" 
+1982-11 | DC1 520 | Batman: "The Haunting of "Boss" Thorne" 
+1982-11 | BM1 353 | "Last Laugh" 
+1982-12 | DC1 521 | "Cat Tale" 
+1982-12 | BM1 354 | "Showdown" 
+1983-01 | DC1 522 | "Snowblind" 
+1983-01 | BM1 355 | "Never Scratch a Cat" 
+1983-02 | DC1 523 | "Inferno" 
+1983-02 | BM1 356 | "The Double Life of Hugo Strange" 
+1983-03 | DC1 524 | "Deathgrip" 
+1983-03 | BM1 357 | "Squid" 
+1983-04 | DC1 525 | "Confrontation" 
+1983-04 | BM1 358 | "Don't Mess With Killer Croc!" 
+1983-05 | DC1 526 | "All My Enemies Against Me!" 
+1983-05 | BM1 359 | "Hunt" 
+1983-06 | DC1 527 | Batman: "Avatars of Vengeance" 
+1983-06 | BM1 360 | "When Slays the Savage Skull" 
+1983-07 | DC1 528 | Batman: "Requiem for Skulls" 
+1983-07 | BM1 361 | "The Most Successful Species!" 
+1983-08 | DC1 529 | Batman: "The Thief of Night!" 
+1983-08 | BM1 362 | "When Riddled by the Riddler" 
+1983-09 | DC1 530 | Batman: "Passion Nocturnale" 
+1983-09 | BM1 363 | "Elegant Night Crimes" 
+1983-10 | DC1 531 | "The Face of the Chimera" 
+1983-10 | BM1 364 | "The Man of a Thousand Menaces" 
+1983-11 | DC1 532 | "Laugh, Killer, Laugh!" 
+1983-11 | BM1 365 | "Ruins" 
+1983-12 | DC1 533 | "Look to the Mountaintop" 
+1983-12 | BM1 366 | "The Joker Is Wild!" 
+1984-01 | DC1 534 | "Brambles" 
+1984-01 | BM1 367 | "The Green Ghosts of Gotham" 
+1984-02 | DC1 535 | "One Hole in a Quilt of Madness" 
+1984-02 | BM1 368 | "A Revenge of Rainbows" 
+1984-03 | DC1 536 | "Facing the Dark, Blindly..." 
+1984-03 | BM1 369 | "Target Practice" 
+1984-04 | DC1 537 | "Down Below" 
+1984-04 | BM1 370 | "Up Above the Sin So High..." 
+1984-05 | DC1 538 | "Clothes Make the Cat(man)" 
+1984-05 | BM1 371 | "Nine Cradles Of Death" 
+1984-06 | DC1 539 | "Boxing" 
+1984-06 | BM1 372 | "What Price, the Prize?" 
+1984-07 | DC1 540 | Batman: "Something Scary" 
+1984-07 | BM1 373 | "The Frequency of Fear" 
+1984-08 | DC1 541 | "C-C-Cold!" 
+1984-08 | BM1 374 | "Pieces of Penguin!" 
+1984-09 | DC1 542 | "Between Two Nights" 
+1984-09 | BM1 375 | "The Glacier Under Gotham!" 
+1984-10 | DC1 543 | "Shadows of Vengeance" 
+1984-10 | BM1 376 | "Nightmares, Inc." 
+1984-11 | DC1 544 | "Deceit in Dark Secrets" 
+1984-11 | BM1 377 | "The Slayer of Night" 
+1984-12 | DC1 545 | "By Darkness Masked" 
+1984-12 | BM1 378 | "One Hat Madder!" 
+1985-01 | DC1 546 | "Hill's Descent" 
+1985-01 | BM1 379 | "Bedtime Stories" 
+1985-02 | DC1 547 | "Cast of Characters, Sequence of Events" 
+1985-02 | BM1 380 | "End of the Bat" 
+1985-03 | DC1 548 | "Beasts A-Prowl" 
+1985-03 | BM1 381 | "Darkly Moved the Pawns" 
+1985-04 | DC1 549 | "Dr. Harvey and Mr. Bullock" 
+1985-04 | BM1 382 | "The Vengeance Spiral" 
+1985-05 | DC1 550 | Batman: "Spider's Ninth Leg" 
+1985-05 | BM1 383 | "Just as Night Follows Day..." 
+1985-06 | DC1 551 | "The First Day of Spring" 
+1985-06 | BM1 384 | "Broken Dates" 
+1985-07 | DC1 552 | "A Stump Grows in Gotham" 
+1985-07 | BM1 385 | "Day of Doom" 
+1985-08 | DC1 553 | "The False Face Society of Gotham" 
+1985-08 | BM1 386 | "Black Mask: Losing Face" 
+1985-09 | DC1 554 | "Port Passed" 
+1985-09 | BM1 387 | "Ebon Masquery" 
+1985-10 | DC1 555 | "Returning Reflections" 
+1985-10 | BM1 388 | "The Round-Trip Looking Glass!" 
+1985-11 | DC1 556 | "The Bleeding Night" 
+1985-11 | BM1 389 | "Red Skies" 
+1985-12 | DC1 557 | "Still Beating" 
+1985-12 | BM1 390 | "Women Dark and Dangerous" 
+1986-01 | DC1 558 | Batman: "Strange Loves" 
+1986-01 | BM1 391 | "Death Comes As The End" 
+1986-02 | DC1 559 | "It Takes Two Wings to Fly" 
+1986-02 | BM1 392 | "A Town on the Night" 
+1986-03 | DC1 560 | Batman: "The Batman Nobody Knows" 
+1986-03 | BM1 393 | "The Dark Rider" 
+1986-04 | DC1 561 | "Flying Hi" 
+1986-04 | BM1 394 | "At the Heart of Stone" 
+1986-05 | DC1 562 | "Reeling" 
+1986-05 | BM1 395 | "The Film Freak" 
+1986-06 | DC1 563 | "Free Faces" 
+1986-06 | BM1 396 | "Box-Office Smash" 
+1986-07 | DC1 564 | "Double Crosses" 
+1986-07 | BM1 397 | "Binary Brains" 
+1986-08 | DC1 565 | "The Love Killing" 
+1986-08 | BM1 398 | "About Faces!" 
+1986-09 | DC1 566 | "Know Your Foes" 
+1986-09 | BM1 399 | "Strike Two!" 
+1986-10 | DC1 567 | Batman: "The Night of Thanks, But No Thanks!" 
+1986-10 | BM1 400 | "Resurrection Night!" 
+1986-11 | DC1 568 | "Eyrie"  (Legends)
+1986-11 | BM1 401 | "A Bird in the Hand..."  (Legends)
+1986-12 | DC1 569 | "Catch as Catscan" 
+1986-12 | BM1 402 | "There's Nothing So Savage -- As a Man Destroying Himself!" 
+1987-01 | DC1 570 | "The Last Laugh!" 
+1987-01 | BM1 403 | "One Batman Too Many!" 
+1987-02 | DC1 571 | "Fear for $ale" 
+1987-02 | BM1 404 | "Batman: Year One - Chapter One: Who I Am - How I Come to Be"  (Batman: Year One)
+1987-03 | DC1 572 | "The Doomsday Book" 
+1987-03 | BM1 405 | "Batman: Year One - Chapter Two: War is Declared"  (Batman: Year One)
+1987-04 | DC1 573 | "The Mad Hatter Flips His Lids!" 
+1987-04 | BM1 406 | "Batman: Year One - Chapter Three: Black Dawn" 
+1987-05 | DC1 574 | "My Beginning... and My Probable End" 
+1987-05 | BM1 407 | "Batman: Year One - Chapter Four: Friend in Need" 
+1987-06 | DC1 575 | "Batman: Year Two - Chapter One: Fear the Reaper"  (Batman: Year Two)
+1987-06 | BM1 408 | "Did Robin Die Tonight?" 
+1987-07 | DC1 576 | "Batman: Year Two - Chapter Two: Deal With the Devil"  (Batman: Year Two)
+1987-07 | BM1 409 | "Just Another Kid on Crime Alley" 
+1987-08 | DC1 577 | "Batman: Year Two - Chapter Three: Deadly Allies"  (Batman: Year Two)
+1987-08 | BM1 410 | "Two of a Kind" 
+1987-09 | DC1 578 | Batman: Year Two - Chapter Four: "...So Shall Ye Reap..."  (Batman: Year Two)
+1987-09 | BM1 411 | "Second Chance" 
+1987-10 | DC1 579 | "The Crime Doctor's Crimson Clinic" 
+1987-10 | BM1 412 | "The Sound of Silence" 
+1987-11 | DC1 580 | "Double Image" 
+1987-11 | BM1 413 | "The Ghost of Masahiko Tahara" 
+1987-12 | DC1 581 | "One out of Two... Isn't Bad..." 
+1987-12 | BM1 414 | "Victims" 
+1988-01 | DC1 582 | "Sole Survivor"  (Millennium)
+1988-01 | BM1 415 | "Millennium"  (Millennium)
+1988-02 | DC1 583 | "Fever" 
+1988-02 | BM1 416 | "White Gold and Truth" 
+1988-03 | DC1 584 | "Fever Break!" 
+1988-03 | BM1 417 | "Ten Nights of the Beast!"  (Batman: Ten Nights of the Beast)
+1988-04 | DC1 585 | "The Ratcatcher" 
+1988-04 | BM1 418 | "Ten Nights of the Beast: Part II"  (Batman: Ten Nights of the Beast)
+1988-05 | DC1 586 | "Rat Trap" 
+1988-05 | BM1 419 | "Ten Nights of the Beast! - Part III"  (Batman: Ten Nights of the Beast)
+1988-06 | DC1 587 | "Night People" 
+1988-06 | BM1 420 | "Ten Nights of the Beast - Part 4"  (Batman: Ten Nights of the Beast)
+1988-07 | DC1 588 | "Night People - Part Two: The Corrosive Man" 
+1988-07 | BM1 421 | "Elmore's Lady" 
+1988-08 | DC1 589 | "Night People: Part Three - The Burning Pit" 
+1988-08 | BM1 422 | "Just Deserts" 
+1988-09 | DC1 590 | "An American Batman in London" 
+1988-09 | BM1 423 | "You Shoulda Seen Him..." 
+1988-10 | DC1 591 | "Aborigine!" 
+1988-10 | BM1 424 | "The Diplomat's Son" 
+1988-11 | DC1 592 | "The Fear - Part One" 
+1988-11 | BM1 425 | "Consequences" 
+1988-12 | DC1 593 | "The Fear - Part Two: Diary of a Madman" 
+1988-12 | DC1 594 | "Ecstasy" 
+1988-12 | BM1 426 | "A Death in the Family - Chapters I & II"  (Batman: A Death in the Family)
+1988-12 | BM1 427 | "A Death in the Family - Chapters III & IV"  (Batman: A Death in the Family)
+1988-12 | BM1 428 | "A Death in the Family - Chapter 5"  (Batman: A Death in the Family)
+1989-01 | DC1 595 | "Our Man in Havana"  (Invasion!)
+1989-01 | DC1 596 | "Video Nasties" 
+1989-01 | BM1 429 | "A Death in the Family! - Chapter 6"  (Batman: A Death in the Family)
+1989-02 | DC1 597 | "Private Viewing" 
+1989-02 | BM1 430 | "Fatal Wish" 
+1989-03 | DC1 598 | "Blind Justice, Part One"  (Batman: Blind Justice)
+1989-03 | BM1 431 | "The Wall" 
+1989-04 | DC1 599 | "Blind Justice, Part Two: Citizen Wayne"  (Batman: Blind Justice)
+1989-04 | BM1 432 | "Dead Letter Office" 
+1989-05 | DC1 600 | "Blind Justice, Part Three"  (Batman: Blind Justice)
+1989-05 | BM1 433 | "The Many Deaths of the Batman - Chapter One: Period of Mourning" 
+1989-06 | DC1 601 | "Tulpa; Part One - Monster Maker" 
+1989-06 | BM1 434 | "The Many Deaths of the Batman - Chapter Two: How Many Times Can a Batman Die?" 
+1989-07 | DC1 602 | "Tulpa; Part Two: Night Moves" 
+1989-07 | BM1 435 | "The Many Deaths of the Batman - Chapter Three: The Last Death of the Batman" 
+1989-08 | DC1 603 | "Tulpa, Part 3: When Demons Clash!" 
+1989-08 | BM1 436 | "Batman Year 3 - Different Roads" 
+1989-08 | BM1 437 | "Batman Year 3 - Changes Made" 
+1989-09 | DC1 604 | "The Mud Pack - Part One: Men of Clay" 
+1989-09 | BM1 438 | "Batman Year 3: Chapter Three: Turnabout" 
+1989-09 | BM1 439 | "Batman Year III Chapter Four: Resolutions" 
+1989-10 | DC1 605 | "The Mud Pack - Part Two: Heart of Steel; Feet of Clay?" 
+1989-10 | DC1 606 | "The Mud Pack - Part Three: Killer Clay!" 
+1989-10 | BM1 440 | "A Lonely Place of Dying, Chapter One: Suspects"  (A Lonely Place of Dying)
+1989-11 | DC1 607 | "The Mud Pack - Part Four: The China Clay Syndrome" 
+1989-11 | DC1 608 | "Anarky in Gotham City - Part One: Letters to the Editor" 
+1989-11 | BM1 441 | "A Lonely Place of Dying - Chapter Three: Parallel Lines"  (A Lonely Place of Dying)
+1989-12 | DC1 609 | "Anarky in Gotham City - Part Two: Facts About Bats" 
+1989-12 | BM1 442 | "A Lonely Place of Dying - Chapter Five: Rebirth"  (A Lonely Place of Dying)
+1990-01 | DC1 610 | "Snow and Ice - Part One: Ode to a Penguin" 
+1990-01 | BM1 443 | "The Coming of Crimesmith" 
+1990-02 | DC1 611 | "Snow and Ice, Part Two: Bird of Ill Omen" 
+1990-02 | BM1 444 | "Crimesmith and Punishment" 
+1990-03 | DC1 612 | "Cats" 
+1990-03 | BM1 445 | "When the Earth Dies! - Chapter One: Red Square! Bloody Square!" 
+1990-04 | DC1 613 | "Trash" 
+1990-04 | BM1 446 | "When the Earth Dies - Chapter Two: Underworlds" 
+1990-05 | DC1 614 | "Street Demonz" 
+1990-05 | BM1 447 | "Earth Day! Demon Night!" 
+1990-06 | DC1 615 | "The Penguin Affair: II - Bird of Ill Omen!" 
+1990-06 | DC1 616 | "Stone Killer" 
+1990-06 | BM1 448 | "The Penguin Affair, I: Pawns" 
+1990-06 | BM1 449 | "The Penguin Affair III: Winged Vengeance" 
+1990-07 | DC1 617 | "A Clash of Symbols" 
+1990-07 | DC1 618 | "Rite of Passage - Part One: Shadow on the Sun" 
+1990-07 | BM1 450 | "Wildcard!" 
+1990-07 | BM1 451 | "Judgments!" 
+1990-08 | DC1 619 | "Rite of Passage - Part Two: Beyond Belief!" 
+1990-08 | DC1 620 | "Rite of Passage - Part Three: Make Me a Hero" 
+1990-08 | BM1 452 | "Dark Knight, Dark City" 
+1990-08 | BM1 453 | "Dark Knight, Dark City: Part II" 
+1990-09 | DC1 621 | "Rite of Passage - Part Four: Trial by Fire" 
+1990-09 | BM1 454 | "Dark Knight, Dark City: Part III" 
+1990-10 | DC1 622 | "Dark Genesis!" 
+1990-10 | BM1 455 | "Identity Crisis: Part One" 
+1990-11 | DC1 623 | "Death of Innocence" 
+1990-11 | BM1 456 | "Identity Crisis - Part Two: Without Fear of Consequence..." 
+1990-12 | DC1 624 | "Bitter Victory" 
+1990-12 | BM1 457 | "Master of Fear" 
+1991-01 | DC1 625 | "Abattoir!" 
+1991-01 | BM1 458 | "Night Monsters" 
+1991-02 | DC1 626 | "Return to the Electrocutioner" 
+1991-02 | BM1 459 | "Saturday Night at the Movies" 
+1991-03 | DC1 627 | "The Case of the Chemical Syndicate" 
+1991-03 | BM1 460 | "Sisters in Arms, Part One: It's a Man's World" 
+1991-04 | DC1 628 | "Hearts" 
+1991-04 | BM1 461 | "Sisters in Arms, Part Two: Ladies' Night" 
+1991-05 | DC1 629 | "The Hungry Grass!" 
+1991-05 | BM1 462 | "To Live and Die in California" 
+1991-06 | DC1 630 | "And the Executioner Wore Stiletto Heels" 
+1991-06 | BM1 463 | "Ghost" 
+1991-07 | DC1 631 | "The Golem of Gotham, Part One" 
+1991-07 | BM1 464 | "Sacrifice" 
+1991-07 | BM1 465 | "Debut" 
+1991-08 | DC1 632 | "The Golem of Gotham, Part Two" 
+1991-08 | DC1 633 | "Identity Crisis" 
+1991-08 | DC1 634 | "The Third Man" 
+1991-08 | BM1 466 | "No More Heroes" 
+1991-08 | BM1 467 | "Shadow Box, Part One" 
+1991-09 | DC1 635 | "Mind Games" 
+1991-09 | DC1 636 | "Mind Control" 
+1991-09 | BM1 468 | "Shadow Box, Part Two" 
+1991-09 | BM1 469 | "Shadow Box, Part Three" 
+1991-10 | DC1 637 | "Control Freak" 
+1991-10 | BM1 470 | "Of Gods and Men"  (War of the Gods)
+1991-11 | DC1 638 | "The Bomb" 
+1991-11 | BM1 471 | "Requiem for a Killer" 
+1991-12 | DC1 639 | "The Queen of Hearts" 
+1991-12 | BM1 472 | "The Queen of Hearts" 
+1992-01 | DC1 640 | "The Idiot Root (Part IV of IV) - The Cook, the Bat and the Idiot" 
+1992-01 | BM1 473 | "The Idiot Root (Part III of IV) - Into the Idiot Zone" 
+1992-02 | DC1 641 | "The Destroyer, Part Three: A Dream is Forever"  (Batman: The Destroyer)
+1992-02 | BM1 474 | "The Destroyer, Part One: A Tale of Two Cities"  (Batman: The Destroyer)
+1992-03 | DC1 642 | "The Return of Scarface (Part II of III) - Gleeding Hearts" 
+1992-03 | BM1 475 | "The Return of Scarface (Part I of III): Mustache Pete is Dead!" 
+1992-04 | DC1 643 | "The Library of Souls" 
+1992-04 | BM1 476 | "The Return of Scarface (Part III of III): The Gig Heat!" 
+1992-05 | DC1 644 | "Electric City, Part One: Wired" 
+1992-05 | BM1 477 | "Gargoyles" 
+1992-05 | BM1 478 | "Venging Spirits" 
+1992-06 | DC1 645 | "Electric City, Part Two: Grounded!" 
+1992-06 | BM1 479 | "Pagan" 
+1992-06 | BM1 480 | "To the Father I Never Knew" 
+1992-07 | DC1 646 | "Electric City, Part Three: Systemic Shock" 
+1992-07 | BM1 481 | "Messenger of Zeus" 
+1992-07 | BM1 482 | "Vengeance of the Harpy" 
+1992-08 | DC1 647 | "Inquiring Minds" 
+1992-08 | DC1 648 | "Let the Punishment Fit the Crime" 
+1992-08 | BM1 483 | "Crash & Burn: A Love Story" 
+1992-09 | DC1 649 | "Malled" 
+1992-09 | DC1 650 | "The Dragon" 
+1992-09 | BM1 484 | "Warpaint" 
+1992-10 | DC1 651 | "A Bullet for Bullock" 
+1992-10 | DC1 652 | "Beyond the Law!" 
+1992-10 | BM1 485 | "Faces of Death" 
+1992-11 | DC1 653 | "The Serpent Pit" 
+1992-11 | BM1 486 | "Heavy Metalhead" 
+1992-12 | DC1 654 | "God of Battle" 
+1992-12 | BM1 487 | "Box of Blood" 
+1993-01 | DC1 655 | "The Anvil of War" 
+1993-01 | BM1 488 | "Costumes" 
+1993-02 | DC1 656 | "Besieged" 
+1993-02 | BM1 489 | "Killer's Bane" 
+1993-03 | DC1 657 | "Null and Void" 
+1993-03 | BM1 490 | "Who Riddled the Riddler?" 
+1993-04 | DC1 658 | "Deciphered" 
+1993-04 | BM1 491 | "The Freedom of Madness!" 
+1993-05 | DC1 659 | "Puppets"  (Batman: Knightfall)
+1993-05 | DC1 660 | "Crocodile Tears"  (Batman: Knightfall)
+1993-05 | BM1 492 | "Crossed Eyes and Dotty Teas"  (Batman: Knightfall)
+1993-05 | BM1 493 | "Redslash"  (Batman: Knightfall)
+1993-06 | DC1 661 | "City on Fire"  (Batman: Knightfall)
+1993-06 | DC1 662 | "Burning Questions"  (Batman: Knightfall)
+1993-06 | BM1 494 | "Night Terrors"  (Batman: Knightfall)
+1993-06 | BM1 495 | "Strange Deadfellows"  (Batman: Knightfall)
+1993-07 | DC1 663 | "No Rest for the Wicked"  (Batman: Knightfall)
+1993-07 | BM1 496 | "Die Laughing"  (Batman: Knightfall)
+1993-07 | BM1 497 | "The Broken Bat"  (Batman: Knightfall)
+1993-08 | DC1 664 | "Who Rules the Night"  (Batman: Knightfall)
+1993-08 | DC1 665 | "Lightning Changes"  (Knightfall)
+1993-08 | BM1 498 | "Knights in Darkness"  (Batman: Knightfall)
+1993-09 | DC1 666 | "The Devil You Know"  (Batman: Knightfall)
+1993-09 | BM1 499 | "The Venom Connection"  (Batman: Knightfall)
+1993-10 | DC1 667 | "Wild, Wild East"  (Batman: Knightquest)
+1993-10 | BM1 500 | "Dark Angel I: The Fall"  (Batman: Knightfall)
+1993-11 | DC1 668 | "Runaway"  (Batman: Knightquest)
+1993-11 | BM1 501 | "Code Name: Mekros"  (Knightquest)
+1993-12 | DC1 669 | "Town Tamer"  (Knightquest)
+1993-12 | BM1 502 | "Phoenix in Chaos"  (Knightquest)
+1994-01 | DC1 670 | "Cold Cases"  (Batman: Knightquest)
+1994-01 | BM1 503 | "Night Becomes Woman"  (Batman: Knightquest)
+1994-02 | DC1 671 | "The Cutting Room Floor"  (Batman: Knightquest)
+1994-02 | BM1 504 | "Dark Dance"  (Batman: Knightquest)
+1994-03 | DC1 672 | "Smash Cut"  (Batman: Knightquest)
+1994-03 | BM1 505 | "Blood Kin"  (Knightquest)
+1994-04 | DC1 673 | "Losing the Light"  (Batman: Knightquest)
+1994-04 | BM1 506 | "Malevolent Maniaxe"  (Batman: Knightquest)
+1994-05 | DC1 674 | "Outgunned"  (Batman: Knightquest)
+1994-05 | BM1 507 | "Ballistic"  (Batman: Knightquest)
+1994-06 | DC1 675 | "Midnight Duel"  (Batman: Knightquest)
+1994-06 | BM1 508 | "Mortal Remains"  (Batman: Knightquest)
+1994-07 | DC1 676 | "Too Many Ninjas"  (Batman: KnightsEnd)
+1994-07 | BM1 509 | "KnightsEnd, Part 1: Spirit of the Bat"  (Batman: KnightsEnd)
+1994-08 | DC1 677 | "Flesh and Steel"  (Batman: KnightsEnd)
+1994-08 | BM1 510 | "Return of the Bat"  (Batman: KnightsEnd)
+1994-09 | DC1 678 | "Yesterdays Gone"  (Zero Hour)
+1994-09 | BM1 511 | "The Night Before Zero"  (Zero Hour)
+1994-11 | DC1 679 | "The Vermin Factor"  (Prodigal)
+1994-11 | BM1 512 | "Prodigal: Part I - Robin and Batman"  (Prodigal)
+1994-12 | DC1 680 | "A Twice Told Tale"  (Batman: Prodigal)
+1994-12 | BM1 513 | "Double Deuce"  (Batman: Prodigal)
+1995-01 | DC1 681 | "Knight Without Armor"  (Batman: Prodigal)
+1995-01 | BM1 514 | "One Night in the War Zone"  (Prodigal)
+1995-02 | DC1 682 | "The Doomsday Clock"  (Troika)
+1995-02 | BM1 515 | "Troika, Part 1: Dark Rider, Cold Warrior"  (Troika)
+1995-03 | DC1 683 | "Odds Against" 
+1995-03 | BM1 516 | "Sleeper, Part One: Nightmares" 
+1995-04 | DC1 684 | "Darkest Day" 
+1995-04 | BM1 517 | "Sleeper, Part Two: Darkness in the Dream Chamber" 
+1995-05 | DC1 685 | "War of the Dragons, Part One: The Iron Dragon" 
+1995-05 | BM1 518 | "Black Mask: The Spidered Face" 
+1995-06 | DC1 686 | "War of the Dragons, Part Three: The Winged Dragon" 
+1995-06 | BM1 519 | "Black Spider: Web of Scars" 
+1995-07 | DC1 687 | "Red Tide" 
+1995-07 | BM1 520 | "Fades to Black" 
+1995-08 | DC1 688 | "The Rip" 
+1995-08 | BM1 521 | "Killer Croc: Fast Train to the Wet Dark" 
+1995-09 | DC1 689 | "The Blazing Heart" 
+1995-09 | BM1 522 | "Swamp Things" 
+1995-10 | DC1 690 | "Burning Love" 
+1995-10 | BM1 523 | "Scarecrow (Part I of II) - Dark Wings Fly Away in Fear" 
+1995-11 | DC1 691 | "Will It Go 'Round in Circles"  (Underworld Unleashed)
+1995-11 | BM1 524 | "Haunted Houses of the Head" 
+1995-12 | DC1 692 | "Lying Eyes"  (Underworld Unleashed)
+1995-12 | BM1 525 | "Frozen Assets"  (Underworld Unleashed)
+1996-01 | DC1 693 | "Systemic Shock" 
+1996-01 | BM1 526 | "Constant Whitewater" 
+1996-02 | DC1 694 | "Violent Reactions" 
+1996-02 | BM1 527 | "The Face Schism" 
+1996-03 | DC1 695 | "Contagion, Part Two: The Gray Area"  (Batman: Contagion)
+1996-03 | BM1 528 | "Schismed Faces" 
+1996-04 | DC1 696 | "Contagion, Part Eight: Babylon Falls"  (Batman: Contagion)
+1996-04 | BM1 529 | "Tears of Blood"  (Batmam: Contagion)
+1996-05 | BM1 530 | "Sweat of the Sun, Tears of the Moon" 
+1996-06 | DC1 697 | "Deadbolt" 
+1996-06 | BM1 531 | "Cult of the Mummy" 
+1996-07 | DC1 698 | "The Tomb" 
+1996-07 | DC1 699 | "The Chain" 
+1996-07 | BM1 532 | "The Spirit Thieves" 
+1996-08 | DC1 700 | "Legacy, Part One: Progeny of the Demon"  (Batman: Legacy)
+1996-08 | BM1 533 | "Legacy, Prelude: Twelve Steps to the Heart of Hell"  (Batman: Legacy)
+1996-09 | DC1 701 | "Legacy, Part Six: Gotham's Scourge"  (Batman: Legacy)
+1996-09 | BM1 534 | "Legacy, Part Five: A Wound on the Heart of Heaven"  (Batman: Legacy)
+1996-10 | DC1 702 | "Legacy, Epilogue: Second Chances"  (Batman: Legacy)
+1996-10 | BM1 535 | "The Ogre and the Ape" 
+1996-11 | DC1 703 | "Howling in the Dark"  (Final Night)
+1996-11 | BM1 536 | "Predation"  (Final Night)
+1996-12 | DC1 704 | "Rocket Scientist" 
+1996-12 | BM1 537 | "Pursuit" 
+1997-01 | DC1 705 | "Badd Girls" 
+1997-01 | BM1 538 | "Predemption" 
+1997-02 | DC1 706 | "Lethal Pursuits" 
+1997-02 | BM1 539 | "Boneyard Blues" 
+1997-03 | DC1 707 | "Riddled" 
+1997-03 | BM1 540 | "Gotham Welcome" 
+1997-04 | DC1 708 | "The Death Lottery, Part One: Heart of Glass" 
+1997-04 | BM1 541 | "Mask of Guilt" 
+1997-05 | DC1 709 | "The Death Lottery, Part II: Heart of Stone" 
+1997-05 | BM1 542 | "Murdicide" 
+1997-06 | DC1 710 | "The Death Lottery, Part Three: Heart of Ice" 
+1997-06 | BM1 543 | "Postmarked: Murder" 
+1997-07 | DC1 711 | "Knight Out" 
+1997-07 | BM1 544 | "Jokin' with Mister D." 
+1997-08 | DC1 712 | "Gears of Justice" 
+1997-08 | BM1 545 | "Night of the Dying Jokers" 
+1997-09 | DC1 713 | "Death Engine" 
+1997-09 | BM1 546 | "Hell to Pay" 
+1997-10 | DC1 714 | "A World for Burning" 
+1997-10 | BM1 547 | "Dark Genesis"  (Genesis)
+1997-11 | DC1 715 | "Days of Fire" 
+1997-11 | BM1 548 | "Burning Faces" 
+1997-12 | DC1 716 | "Death Comes Home" 
+1997-12 | BM1 549 | "The Egyptian Falcon" 
+1998-01 | DC1 717 | "Savage Metal" 
+1998-01 | BM1 550 | "Chasing Clay" 
+1998-02 | DC1 718 | "Point of Impact" 
+1998-02 | BM1 551 | "Suit of Evil Souls" 
+1998-03 | DC1 719 | "Cataclysm, Prelude: Sound and Fury"  (Batman: Cataclysm)
+1998-03 | BM1 552 | "The Greatest Evil" 
+1998-04 | DC1 720 | "Cataclysm, Part Five: The First and the Last"  (Batman: Cataclysm)
+1998-04 | BM1 553 | "Cataclysm, Part Three: Lifelines"  (Batman: Cataclysm)
+1998-05 | DC1 721 | "Cataclysm, Part Fourteen: Shifting Ground"  (Batman: Cataclysm)
+1998-05 | BM1 554 | "Cataclysm, Part Twelve: Master of Destruction"  (Batman: Cataclysm)
+1998-06 | DC1 722 | "Statistics"  (Batman: Aftershock)
+1998-06 | BM1 555 | "Trapped Like Rats"  (Batman: Aftershock)
+1998-07 | DC1 723 | "Brotherhood of the Fist, Part Two: Fight Back to Gotham"  (Brotherhood of the Fist)
+1998-07 | BM1 556 | "Help, Trapped, Money, Rescue, Ruins"  (Batman: Aftershock)
+1998-08 | DC1 724 | "The Grieving City"  (Batman: Aftershock)
+1998-08 | BM1 557 | "Ballistic's Evidence"  (Batman: Aftershock)
+1998-09 | DC1 725 | "At the End of the Day"  (Batman: Aftershock)
+1998-09 | BM1 558 | "Dying City"  (Batman: Aftershock)
+1998-10 | DC1 726 | "Fool's Errand"  (Batman: Aftershock)
+1998-10 | BM1 559 | "Dead City"  (Batman: Aftershock)
+1998-12 | DC1 727 | "Nest of Vipers"  (Road to No Man's Land)
+1998-12 | BM1 560 | "Bruce Wayne Goes to Washington, Part One: The Jackals"  (Road to No Man's Land)
+1999-01 | DC1 728 | "Chaos Squared"  (Road to No Man's Land)
+1999-01 | BM1 561 | "Bruce Wayne Goes to Washington, Part Two: The Witness"  (Road to No Man's Land)
+1999-02 | DC1 729 | "30 Seconds to Midnight"  (Road to No Man's Land)
+1999-02 | BM1 562 | "The Devil His Due!"  (Road to No Man's Land)
+1999-03 | DC1 730 | "No Law and a New Order, Part 4: Language"  (No Man's Land)
+1999-03 | BM1 563 | "No Law and a New Order, Part Three: Tactics"  (No Man's Land)
+1999-04 | DC1 731 | "Fear of Faith, Part 4: Be Not Afraid"  (No Man's Land)
+1999-04 | BM1 564 | "Fear of Faith, Part 3: Life in Hell" 
+1999-05 | DC1 732 | "Mosaic, Part Two"  (No Man's Land)
+1999-05 | BM1 565 | "Mosaic, Part One"  (No Man's Land)
+1999-06 | DC1 733 | "Shades of Grey"  (No Man's Land)
+1999-06 | BM1 566 | "The Visitor"  (No Man's Land)
+1999-07 | DC1 734 | "Mark of Cain, Part Two"  (No Man's Land)
+1999-07 | BM1 567 | "Mark of Cain, Part One"  (No Man's Land)
+1999-08 | DC1 735 | "Fruit of the Earth, Part 3"  (No Man's Land)
+1999-08 | BM1 568 | "Fruit of the Earth, Part Two"  (No Man's Land)
+1999-09 | DC1 736 | "Homecoming"  (No Man's Land)
+1999-09 | BM1 569 | "I Cover the Waterfront"  (No Man's Land)
+1999-10 | DC1 737 | "The Code, Part 2"  (No Man's Land)
+1999-10 | BM1 570 | "The Code, Part 1: Breakin' the Law"  (No Man's Land)
+1999-11 | DC1 738 | "Goin' Downtown, Part Two: The Vandal"  (No Man's Land)
+1999-11 | BM1 571 | "Goin' Downtown, Part One: The Vault"  (No Man's Land)
+1999-12 | DC1 739 | "Jurisprudence, Part II"  (No Man's Land)
+1999-12 | BM1 572 | "Jurisprudence, Part One"  (No Man's Land)
+2000-01 | DC1 740 | "Shellgame, Part II"  (No Man's Land)
+2000-01 | BM1 573 | "Shellgame, Part I"  (No Man's Land)
+2000-02 | DC1 741 | "Endgame, Part Three: ...Sleep In Heavenly Peace..."  (No Man's Land)
+2000-02 | BM1 574 | "Endgame, Part Two: ...Tender and Mild..."  (No Man's Land)
+2000-03 | DC1 742 | "The Honored Dead"  (Batman: Evolution)
+2000-03 | BM1 575 | "O'er the Land of the Free" 
+2000-04 | DC1 743 | "Evolution One: Whispers in the Dark"  (Batman: Evolution)
+2000-04 | BM1 576 | "In the Dark Places" 
+2000-05 | DC1 744 | "Evolution II: Unity of Purpose"  (Batman: Evolution)
+2000-05 | BM1 577 | "Mike and Allie" 
+2000-06 | DC1 745 | "Evolution III: Law of the Land"  (Batman: Evolution)
+2000-06 | BM1 578 | "He Who Lurks" 
+2000-07 | DC1 746 | "Evolution IV: Aftertaste"  (Batman: Evolution)
+2000-07 | BM1 579 | "A Matter of Principle" 
+2000-08 | DC1 747 | "Happy Birthday Two You"  (Batman: Evolution)
+2000-08 | BM1 580 | "Going Under" 
+2000-09 | DC1 748 | "Urban Renewal, Part One"  (Batman: Evolution)
+2000-09 | BM1 581 | "Diver Down" 
+2000-10 | DC1 749 | "Urban Renewal, Part Two"  (Batman: Evolution)
+2000-10 | BM1 582 | "Fearless, Part 1" 
+2000-11 | DC1 750 | "Dependence"  (Batman: Evolution)
+2000-11 | BM1 583 | "Fearless, Part 2" 
+2000-12 | DC1 751 | "A Walk in the Park, Part One" 
+2000-12 | BM1 584 | "The Dark Knight Project" 
+2001-01 | DC1 752 | "A Walk in the Park, Part Two" 
+2001-01 | BM1 585 | "Measure for Measure" 
+2001-02 | DC1 753 | "The Janus Double Down" 
+2001-02 | BM1 586 | "Penguin Dreams" 
+2001-03 | DC1 754 | "Officer Down, Part Six: Monster in a Box" 
+2001-03 | BM1 587 | "Officer Down, Part One: These Are Your Rights" 
+2001-04 | DC1 755 | "Here's Your Hat, What's Your Hurry?" 
+2001-04 | BM1 588 | "Close Before Striking: Act One" 
+2001-05 | DC1 756 | "Lord of the Ring" 
+2001-05 | BM1 589 | "Close Before Striking: Act Two" 
+2001-06 | DC1 757 | "Air Time" 
+2001-06 | BM1 590 | "Close Before Striking (Part III of III)" 
+2001-07 | DC1 758 | "Unknowing, Part One" 
+2001-07 | BM1 591 | "Shot Through the Heart (Part I of II)" 
+2001-08 | DC1 759 | "Unknowing, Part Two" 
+2001-08 | BM1 592 | "Shot Through the Heart, Part Two" 
+2001-09 | DC1 760 | "Unknowing, Part Three" 
+2001-09 | BM1 593 | "Sanctuary, Part One"  (Our Worlds at War)
+2001-10 | DC1 761 | "In Thirty Days" 
+2001-10 | BM1 594 | "Sanctuary, Part Two"  (Our Worlds at War)
+2001-11 | DC1 762 | "Passings" 
+2001-11 | BM1 595 | "Out of the Past" 
+2001-12 | DC1 763 | "La Cucilla"  (Joker's Last Laugh)
+2001-12 | BM1 596 | "City on Fire"  (Joker's Last Laugh)
+2002-01 | DC1 764 | "Hearts" 
+2002-01 | BM1 597 | "Crooked Miles" 
+2002-02 | DC1 765 | "Vacancies" 
+2002-02 | BM1 598 | "Santa Klaus is Coming to Town!" 
+2002-03 | DC1 766 | "Procedure"  (Bruce Wayne: Murderer?)
+2002-03 | BM1 599 | "From the Inside-Out"  (Bruce Wayne: Murderer?)
+2002-04 | DC1 767 | "Timeless"  (Bruce Wayne: Murderer?)
+2002-04 | BM1 600 | "The Scene of the Crime"  (Bruce Wayne: Fugitive)
+2002-05 | DC1 768 | "Purity, Part 1 of 3" 
+2002-05 | BM1 601 | "Turning the Town Red, Part One of Two"  (Bruce Wayne: Fugitive)
+2002-06 | DC1 769 | "Purity, Part 2 of 3"  (Bruce Wayne: Fugitive)
+2002-06 | BM1 602 | "Turning the Town Red, Part Two" 
+2002-07 | DC1 770 | "Purity, Part 3 of 3"  (Bruce Wayne: Fugitive)
+2002-07 | BM1 603 | "The Turning Point"  (Bruce Wayne: Fugitive)
+2002-08 | DC1 771 | "Access"  (Bruce Wayne: Fugitive)
+2002-08 | BM1 604 | "Reasons" 
+2002-09 | DC1 772 | "Principle"  (Bruce Wayne: Fugitive)
+2002-09 | BM1 605 | "Courage"  (Bruce Wayne: Fugitive)
+2002-10 | DC1 773 | "Atonement, Part 1" 
+2002-10 | BM1 606 | "Death-Wish for Two" 
+2002-11 | DC1 774 | "Atonement, Part 2" 
+2002-11 | BM1 607 | "Death-Wish for Two, Conclusion" 
+2002-12 | DC1 775 | "Atonement, Part Three" 
+2002-12 | BM1 608 | "Hush (Part I of XII) - The Ransom"  (Batman: Hush)
+2003-01 | DC1 776 | "Orphan" 
+2003-01 | BM1 609 | "Hush (Part II of XII) - The Friend"  (Batman: Hush)
+2003-02 | DC1 777 | "Dead Reckoning, Part One" 
+2003-02 | BM1 610 | "Hush (Part III of XII) - The Beast"  (Batman: Hush)
+2003-03 | DC1 778 | "Dead Reckoning, Part Two" 
+2003-03 | BM1 611 | "Hush (Part IV of XII) - The City"  (Batman: Hush)
+2003-04 | DC1 779 | "Dead Reckoning, Part Three" 
+2003-04 | BM1 612 | "Hush (Part V of XII) - The Battle"  (Batman: Hush)
+2003-05 | DC1 780 | "Dead Reckoning, Part Four" 
+2003-05 | BM1 613 | "Hush (Part VI of XII) - The Opera"  (Batman: Hush)
+2003-06 | DC1 781 | "Dead Reckoning, Part Five" 
+2003-06 | BM1 614 | "Hush (Part VII of XII): The Joke"  (Batman: Hush)
+2003-07 | DC1 782 | "Dead Reckoning, Conclusion" 
+2003-07 | BM1 615 | "Hush, (Part VIII of XII) - The Dead"  (Batman: Hush)
+2003-08 | DC1 783 | "More Perfect than Perfect" 
+2003-08 | BM1 616 | "Hush (Part IX of XII) - The Assassins"  (Batman: Hush)
+2003-09 | DC1 784 | "Made of Wood, Part One" 
+2003-09 | BM1 617 | "Hush (Part X of XII) - The Grave"  (Batman: Hush)
+2003-10 | DC1 785 | "Made of Wood, Part Two" 
+2003-10 | BM1 618 | "Hush (Part XI of XII) - The Game"  (Batman: Hush)
+2003-11 | DC1 786 | "Made of Wood, Conclusion" 
+2003-11 | BM1 619 | "Hush (Part XII of XII) - The End"  (Batman: Hush)
+2003-12 | DC1 787 | "Mimsy Were the Borogoves" 
+2003-12 | BM1 620 | "Broken City, Part One" 
+2004-01 | DC1 788 | "The Randori Stone, Part One" 
+2004-01 | BM1 621 | "Broken City, Part Two" 
+2004-02 | DC1 789 | "The Randori Stone, Part Two" 
+2004-02 | BM1 622 | "Broken City, Part Three" 
+2004-03 | DC1 790 | "Scarification"  (Batman: War Games)
+2004-03 | BM1 623 | "Broken City, Part Four" 
+2004-04 | DC1 791 | "The Surrogate, Part One: Lost and Found"  (Batman: War Games)
+2004-04 | BM1 624 | "Broken City, Part Five" 
+2004-05 | DC1 792 | "The Surrogate, Part Two: The Blinding"  (Batman: War Games)
+2004-05 | BM1 625 | "Broken City, Conclusion" 
+2004-06 | DC1 793 | "The Surrogate, Part Three: Deliverance"  (Batman: War Games)
+2004-06 | BM1 626 | "As the Crow Flies, Part 1: Visions" 
+2004-07 | DC1 794 | "Monsters of Rot, Part One: Cleansing Fires"  (Batman: War Games)
+2004-07 | BM1 627 | "As the Crow Flies, Part 2: Partners in Crime" 
+2004-07 | BM1 628 | "As the Crow Flies, Part 3: Scary Monsters" 
+2004-08 | DC1 795 | "Monsters of Rot, Part Two: Knee Deep"  (Batman: War Games)
+2004-08 | BM1 629 | "As the Crow Flies, Part 4: Shotgun" 
+2004-09 | DC1 796 | "...And Red All Over"  (Batman: War Games)
+2004-09 | BM1 630 | "As the Crow Flies Part V - Home Invasion" 
+2004-10 | DC1 797 | "War Games: Act 1, Part 1 of 8: Flashpoint"  (Batman: War Games)
+2004-10 | BM1 631 | "War Games: Act 1, Part 8 of 8: Last Stand at Alamo High"  (Batman: War Games)
+2004-11 | DC1 798 | "War Games: Act 2, Part 1 of 8: Undertow"  (Batman: War Games)
+2004-11 | BM1 632 | "War Games: Act 2, Part 8 of 8: Orpheus in the Underworld"  (Batman: War Games)
+2004-12 | DC1 799 | "War Games: Act 3, Part 1 of 8: Good Intentions"  (Batman: War Games)
+2004-12 | BM1 633 | "War Games: Act 3, Part 8 of 8: No Going Back"  (Batman: War Games)
+2005-01 | DC1 800 | "Alone at Night"  (Batman: City of Crime)
+2005-01 | BM1 634 | "War Games, Epilogue: Decompression"  (Batman: War Games)
+2005-02 | DC1 801 | "City of Crime, Part 1"  (Batman: City of Crime)
+2005-02 | BM1 635 | "Under the Hood, Part 1: New Business"  (Batman: Under the Hood)
+2005-03 | DC1 802 | "City of Crime, Part 2: The Secret Keepers"  (Batman: City of Crime)
+2005-03 | BM1 636 | "Under the Hood, Part 2: First Strike"  (Batman: Under the Hood)
+2005-04 | DC1 803 | "City of Crime, Part 3: The Horror Show"  (Batman: City of Crime)
+2005-04 | BM1 637 | "Under the Hood, Part 3: Overnight Deliveries"  (Batman: Under the Hood)
+2005-05 | DC1 804 | "City of Crime, Part 4: All You Need Is Love"  (Batman: City of Crime)
+2005-05 | BM1 638 | "Under the Hood, Part 4: Bidding War"  (Batman: Under the Hood)
+2005-06 | DC1 805 | "City of Crime, Part 5: The Heating Up"  (Batman: City of Crime)
+2005-06 | BM1 639 | "Family Reunion, Part I: The Word on the Street"  (Batman: Under the Hood)
+2005-07 | DC1 806 | "City of Crime, Part 6: A City, Not My Own"  (Batman: City of Crime)
+2005-07 | BM1 640 | "Family Reunion, Part II: While the Cat's Away"  (Batman: Under the Hood)
+2005-08 | DC1 807 | "City of Crime, Part 7: Crown Point"  (Batman: City of Crime)
+2005-08 | BM1 641 | "Family Reunion, Conclusion: Face to Face"  (Batman: Under the Hood)
+2005-09 | DC1 808 | "City of Crime, Part 8: The New Face"  (Batman: City of Crime)
+2005-09 | BM1 642 | "Breaking the Skin" 
+2005-10 | DC1 809 | "War Crimes, Part 1: To the Victor Go the Spoils"  (Batman: War Games)
+2005-10 | DC1 810 | "War Crimes, Part 3: A Consequence of Truth"  (Batman: War Games)
+2005-10 | BM1 643 | "War Crimes, Part 2: Minor Discrepancies"  (Batman: War Games)
+2005-10 | BM1 644 | "War Crimes, Part 4: Judgment At Gotham"  (Batman: War Games)
+2005-11 | DC1 811 | "City of Crime, Part 9: The Experiment"  (Batman: City of Crime)
+2005-11 | BM1 645 | "Show Me Yesterday, For I Can't Find Today"  (Batman: Under the Hood)
+2005-12 | DC1 812 | "City of Crime, Part 10: Pearls and Fine China"  (Batman: City of Crime)
+2005-12 | BM1 646 | "Franchise, Part 1: Supply Side Economics"  (Batman: Under the Hood)
+2006-01 | DC1 813 | "City of Crime, Part 11: A Place of Fear"  (Batman: City of Crime)
+2006-01 | BM1 647 | "Franchise, Part 2: The Away Team"  (Batman: Under the Hood)
+2006-02 | DC1 814 | "City of Crime, Part 12: The Big Show"  (Batman: City of Crime)
+2006-02 | BM1 648 | "All They Do is Watch Us Kill, Part 1"  (Batman: Under the Hood)
+2006-03 | DC1 815 | "Victims, Part One" 
+2006-03 | BM1 649 | "All They Do is Watch Us Kill, Part 2"  (Batman: Under the Hood)
+2006-04 | DC1 816 | "Victims, Part Two" 
+2006-04 | BM1 650 | "All They Do is Watch Us Kill, Part III: It Only Hurts When I Laugh"  (Batman: Under the Hood)
+2006-05 | DC1 817 | "Face the ɘɔɒᖷ, Part 1 of 8" 
+2006-05 | BM1 651 | "Face the ɘɔɒᖷ, Part 2 of 8" 
+2006-06 | DC1 818 | "Face the ɘɔɒᖷ, Part 3 of 8" 
+2006-06 | BM1 652 | "Face the ɘɔɒᖷ, Part 4 of 8" 
+2006-07 | DC1 819 | "Face the ɘɔɒᖷ, Part 5 of 8" 
+2006-07 | BM1 653 | "Face the ɘɔɒᖷ, Part 6 of 8" 
+2006-08 | DC1 820 | "Face the ɘɔɒᖷ, Part 7 of 8" 
+2006-08 | BM1 654 | "Face the ɘɔɒᖷ, Conclusion" 
+2006-09 | DC1 821 | "The Beautiful People" 
+2006-09 | BM1 655 | "Batman & Son, Part 1: Building a Better Batmobile" 
+2006-10 | DC1 822 | "E. Nigma, Consulting Detective" 
+2006-10 | BM1 656 | "Batman & Son, Part 2: Man-Bats of London" 
+2006-11 | DC1 823 | "Stalked" 
+2006-11 | BM1 657 | "Batman & Son, Part 3: Wonderboys" 
+2006-12 | DC1 824 | "Night of the Penguin" 
+2006-12 | BM1 658 | "Batman & Son, Part 4: Absent Fathers" 
+2007-01 | DC1 825 | "The Return of Doctor Phosphorus" 
+2007-01 | BM1 659 | "Grotesk, Part 1" 
+2007-02 | DC1 826 | "Slayride" 
+2007-02 | BM1 660 | "Grotesk, Part 2" 
+2007-02 | BM1 661 | "Grotesk, Part 3" 
+2007-03 | DC1 827 | "Double Talk" 
+2007-03 | BM1 662 | "Grotesk (Part IV of IV)" 
+2007-04 | DC1 828 | "Sharkbite" 
+2007-04 | BM1 663 | "The Clown at Midnight" 
+2007-05 | DC1 829 | "Siege, Part One" 
+2007-05 | DC1 830 | "Siege, Part 2" 
+2007-05 | BM1 664 | "Three Ghosts of Batman" 
+2007-06 | DC1 831 | "Kind of Like Family" 
+2007-06 | BM1 665 | "The Black Casebook" 
+2007-07 | DC1 832 | "Triage" 
+2007-07 | BM1 666 | "Batman in Bethlehem" 
+2007-08 | DC1 833 | "Trust" 
+2007-08 | BM1 667 | "The Island of Mister Mayhew" 
+2007-09 | DC1 834 | "Trust, Part 2" 
+2007-09 | BM1 668 | "Now We Are Dead!" 
+2007-10 | DC1 835 | "Absolute Terror, 1 of 2" 
+2007-10 | BM1 669 | "The Dark Knight Must Die!" 
+2007-11 | DC1 836 | "Absolute Terror, 2 of 2" 
+2007-12 | DC1 837 | "Honor Among Thieves" 
+2007-12 | BM1 670 | "Lazarus Rising"  (Batman: The Resurrection of Ra's al Ghul)
+2008-01 | DC1 838 | "The Resurrection of Ra's al Ghul, Part 3: Sins of the Fathers"  (Batman: The Resurrection of Ra's al Ghul)
+2008-01 | BM1 671 | "He Who is Master"  (Batman: The Resurrection of Ra's al Ghul)
+2008-02 | DC1 839 | "The Resurrection of Ra's al Ghul, Conclusion: Entitlement"  (Batman: The Resurrection of Ra's al Ghul)
+2008-02 | BM1 672 | "Space Medicine" 
+2008-03 | DC1 840 | "The Resurrection of Ra's al Ghul, Epiloque" 
+2008-03 | BM1 673 | "Joe Chill in Hell" 
+2008-04 | DC1 841 | "The Wonderland Gang!" 
+2008-04 | BM1 674 | "Batman Dies at Dawn" 
+2008-05 | DC1 842 | "The Suit of Sorrows" 
+2008-05 | BM1 675 | "The Fiend With Nine Eyes" 
+2008-06 | DC1 843 | "Opening Night!" 
+2008-06 | BM1 676 | "Batman R.I.P. - Midnight in the House of Hurt"  (Batman R.I.P.)
+2008-07 | DC1 844 | "Curtains" 
+2008-07 | BM1 677 | "Batman R.I.P. - Batman in the Underworld"  (Batman R.I.P.)
+2008-08 | DC1 845 | "The Riddle Unanswered" 
+2008-08 | BM1 678 | "Batman R.I.P. - Zur En Arrh"  (Batman R.I.P.)
+2008-09 | DC1 846 | "Batman R.I.P. Heart of Hush (Part 1 of 5) - First Families of Gotham"  (Batman R.I.P.)
+2008-09 | BM1 679 | "Batman R.I.P. - Miracle on Crime Alley"  (Batman R.I.P.)
+2008-10 | DC1 847 | "Batman R.I.P. Heart of Hush (Part 2 of 5) - The Last Good Day"  (Batman R.I.P.)
+2008-10 | BM1 680 | "Batman R.I.P. - The Thin White Duke of Death"  (Batman R.I.P.)
+2008-11 | DC1 848 | "Batman R.I.P. Heart of Hush (Part 3 of 5) - Heartstrings"  (Batman R.I.P.)
+2008-12 | DC1 849 | "Batman R.I.P. Heart of Hush (Part 4 of 5) - Scars"  (Batman R.I.P.)
+2008-12 | BM1 681 | "Batman R.I.P.; The Conclusion - Hearts in Darkness"  (Batman R.I.P.)
+2009-01 | DC1 850 | "Batman R.I.P.; Heart of Hush: The Conclusion - The Demon in the Mirror"  (Batman R.I.P.)
+2009-01 | BM1 682 | "The Butler Did It"  (Batman: Last Rites)
+2009-01 | BM1 683 | "What the Butler Saw"  (Batman: Last Rites)
+2009-02 | DC1 851 | "Last Days of Gotham, Part 1 of 2"  (Batman: Last Rites)
+2009-02 | BM1 684 | "Last Days of Gotham, Part 2 of 2"  (Batman: Last Rites)
+2009-03 | DC1 852 | "Reconstruction"  (Batman: Hush Money)
+2009-03 | BM1 685 | "Catspaw"  (Batman: Hush Money)
+2009-04 | BM1 686 | "Whatever Happened to the Caped Crusader? (Part 1 of 2): The Beginning of the End" 
+2009-06 | DC1 853 | "Whatever Happened to the Caped Crusader? Part 2" 
+2009-08 | DC1 854 | "Elegy, Part One: Agitato"  (Batman: Reborn)
+2009-08 | BM1 687 | "A Battle Within"  (Batman: Reborn)
+2009-09 | DC1 855 | "Elegy, Part Two: Misterioso"  (Batman: Reborn)
+2009-09 | BM1 688 | "Long Shadows, Part One: Old Sins Cast Long Shadows"  (Batman: Reborn)
+2009-10 | DC1 856 | "Elegy, Part Three: Affettuoso"  (Batman: Reborn)
+2009-10 | BM1 689 | "Long Shadows, Part Two: New Day, New Knight"  (Batman: Reborn)
+2009-11 | DC1 857 | "Elegy, Part Four: Rubato!"  (Batman: Reborn)
+2009-11 | BM1 690 | "Long Shadows, Part Three: Tripwires"  (Batman: Reborn)
+2009-12 | DC1 858 | "GO, Part One"  (Batman: Reborn)
+2009-12 | BM1 691 | "Long Shadows, Conclusion: Two Knights. Two Faces."  (Batman: Reborn)
+2009-12 | BM1 692 | "Life After Death, Part 1: The Awakening" 
+2010-01 | DC1 859 | "GO, Part Two"  (Batman: Reborn)
+2010-01 | BM1 693 | "Life After Death, Part 2: Charades" 
+2010-02 | DC1 860 | "GO, Part Three" 
+2010-02 | BM1 694 | "Life after Death, Part 3: Fractured Pieces" 
+2010-03 | DC1 861 | "Cutter, Part One" 
+2010-03 | BM1 695 | "Life After Death, Part 4: Smoke and Mirrors" 
+2010-04 | DC1 862 | "Cutter, Part Two" 
+2010-04 | BM1 696 | "Life After Death, Part 5: Mind Games" 
+2010-05 | DC1 863 | "Cutter, Part Three" 
+2010-05 | BM1 697 | "Life After Death, Part 6: Liberator" 
+2010-06 | DC1 864 | "Beneath the Mask Part One" 
+2010-06 | BM1 698 | "Riddle Me This, Part One: Black Magic Tricks" 
+2010-07 | DC1 865 | "Beneath The Mask, Part Two: Face Off!" 
+2010-07 | BM1 699 | "Riddle Me This, Part Two: Means to an End" 
+2010-08 | DC1 866 | "The Medallion" 
+2010-08 | BM1 700 | "Time and the Batman" 
+2010-09 | DC1 867 | "Batman: Impostors, Part I: Laugh and the World Laughs With You"  (Batman: Impostors)
+2010-09 | BM1 701 | "Batman R.I.P. The Missing Chapter - Part One: The Hole in Things"  (Batman R.I.P.)
+2010-10 | DC1 868 | "Batman: Impostors, Part II: The Laughter of Fools"  (Batman: Impostors)
+2010-10 | BM1 702 | "Batman R.I.P. The Missing Chapter - Part Two: Batman's Last Case"  (Batman R.I.P.)
+2010-11 | DC1 869 | "Batman: Impostors, Part III: Laughter Out of Bellies"  (Batman: Impostors)
+2010-11 | BM1 703 | "The Great Escape" 
+2010-12 | DC1 870 | "Batman: Impostors, Part IV: Last Man Laughing"  (Batman: Impostors)
+2011-01 | DC1 871 | "The Black Mirror, Part One of Three" 
+2011-01 | BM1 704 | "Eye of the Beholder, Part One: Hear No Evil" 
+2011-02 | DC1 872 | "The Black Mirror, Part 2 of 3" 
+2011-02 | BM1 705 | "Eye of the Beholder, Part Two: See No Evil" 
+2011-03 | DC1 873 | "The Black Mirror, Part 3 of 3" 
+2011-03 | BM1 706 | "Eye of the Beholder, Part Three: Speak no Evil" 
+2011-04 | DC1 874 | "Skeleton Cases, Part 3 of 3" 
+2011-04 | BM1 707 | "Eye of the Beholder, Conclusion: The Evil Within" 
+2011-05 | DC1 875 | "Lost Boys" 
+2011-05 | BM1 708 | "Judgment on Gotham, Part One: One Good Man"  (Batman: Judgment on Gotham)
+2011-06 | DC1 876 | "Hungry City, Part 1" 
+2011-06 | BM1 709 | "Judgement on Gotham, Conclusion: Secret Sin"  (Batman: Judgment on Gotham)
+2011-07 | DC1 877 | "Hungry City, Part 2" 
+2011-07 | BM1 710 | "Pieces, Part One - Lost" 
+2011-08 | DC1 878 | "Hungry City, Part 3" 
+2011-08 | BM1 711 | "Pieces Lost, Part Two: The Long Way Pack" 
+2011-09 | DC1 879 | "Skeleton Key" 
+2011-09 | DC1 880 | "My Dark Architect" 
+2011-09 | BM1 712 | "Pieces, Part Three: Gilded Lily" 
+2011-10 | DC1 881 | "The Face in the Glass" 
+2011-10 | BM1 713 | "Storybook Endings" 
+2011-11 | DC2   1 | "Detective Comics"  (The New 52)
+2011-11 | BM2   1 | "The Court of Owls, Part One: Knife Trick"  (The New 52)
+2011-12 | DC2   2 | "Playtime's Over" 
+2011-12 | BM2   2 | "The Court of Owls, Part Two: Trust Fall" 
+2012-01 | DC2   3 | "Cold Blood" 
+2012-01 | BM2   3 | "The Court of Owls, Part Three: The Thirteenth Hour" 
+2012-02 | DC2   4 | "The Main Event" 
+2012-02 | BM2   4 | "The Court of Owls, Part Four: Face the Court" 
+2012-03 | DC2   5 | "Wheel of Misfortune" 
+2012-03 | BM2   5 | "The Court of Owls, Part Five: Face the Court" 
+2012-04 | DC2   6 | "Kill Game" 
+2012-04 | BM2   6 | "The Court of Owls, Part Six: Beneath the Glass" 
+2012-05 | DC2   7 | "The Snake and the Hawk" 
+2012-05 | BM2   7 | "The Talons Strike!" 
+2012-06 | DC2   8 | "Scare Tactics" 
+2012-06 | BM2   8 | "Attack on Wayne Manor"  (Night of the Owls)
+2012-07 | DC2   9 | "Night of the Owls: The Owls Take Arkham"  (Night of the Owls)
+2012-07 | BM2   9 | "Night of the Owls"  (Night of the Owls)
+2012-08 | DC2  10 | "On the Brink" 
+2012-08 | BM2  10 | "Assault on the Court" 
+2012-09 | DC2  11 | "Radioactive!" 
+2012-09 | BM2  11 | "My Brother's Keeper" 
+2012-10 | DC2  12 | "The Killer Inside" 
+2012-10 | BM2  12 | "Ghost in the Machine" 
+2012-12 | DC2  13 | "Duck and Cover" 
+2012-12 | BM2  13 | "Knock Knock"  (Death of the Family)
+2013-01 | DC2  14 | "Unnatural Selection" 
+2013-01 | BM2  14 | "Funny Bones"  (Death of the Family)
+2013-02 | DC2  15 | "The Dirt Nap"  (Death of the Family)
+2013-02 | BM2  15 | "But Here's the Kicker"  (Death of the Family)
+2013-03 | DC2  16 | "Nothin' But Smiles"  (Death of the Family)
+2013-03 | BM2  16 | "Castle of Cards"  (Death of the Family)
+2013-04 | DC2  17 | "The Pursuit of Happiness" 
+2013-04 | BM2  17 | "The Punchline"  (Death of the Family)
+2013-05 | DC2  18 | "Return to Roost"  (Batman: Requiem)
+2013-05 | BM2  18 | "Resolve"  (Batman: Requiem)
+2013-06 | DC2  19 | "The 900" 
+2013-06 | BM2  19 | "Nowhere Man" 
+2013-07 | DC2  20 | "King for a Day" 
+2013-07 | BM2  20 | "Nowhere Man, Part 2" 
+2013-08 | DC2  21 | "Shadows and Ghosts" 
+2013-08 | BM2  21 | "Secret City: Part One"  (Batman: Zero Year)
+2013-09 | DC2  22 | "Targeting the Shield" 
+2013-09 | BM2  22 | "Zero Year: Secret City, Part Two"  (Batman: Zero Year)
+2013-10 | DC2  23 | "Bat and Mouse" 
+2013-10 | BM2  23 | "Zero Year: Secret City, Part Three"  (Batman: Zero Year)
+2013-12 | DC2  24 | "State of Shock" 
+2013-12 | BM2  24 | "Dark City, Part One"  (Batman: Zero Year)
+2014-01 | DC2  25 | "Whistleblower's Blues"  (Batman: Zero Year)
+2014-01 | BM2  25 | "Dark City, Part Two"  (Batman: Zero Year)
+2014-02 | DC2  26 | "Crown of Fear"  (Batman: Gothtopia)
+2014-02 | BM2  26 | "Dark City, Part Three"  (Batman: Zero Year)
+2014-03 | DC2  27 | "The Case of the Chemical Syndicate"  (Batman: Gothtopia)
+2014-03 | BM2  27 | "Dark City, Part Four"  (Batman: Zero Year)
+2014-04 | DC2  28 | "Welcome to... Gothtopia, Part Two: The Maddening Crowd"  (Batman: Gothtopia)
+2014-04 | BM2  28 | "Gotham Eternal" 
+2014-05 | DC2  29 | "The Truth And Nothing But"  (Batman: Gothtopia)
+2014-05 | BM2  29 | "Dark City, Part Five"  (Batman: Zero Year)
+2014-06 | DC2  30 | "Icarus, Part One" 
+2014-06 | BM2  30 | "Savage City, Part One"  (Batman: Zero Year)
+2014-07 | DC2  31 | "Icarus, Part Two" 
+2014-07 | BM2  31 | "Savage City, Part Two"  (Batman: Zero Year)
+2014-08 | DC2  32 | "Icarus, Part Three" 
+2014-08 | BM2  32 | "Savage City, Part Three"  (Batman: Zero Year)
+2014-09 | DC2  33 | "Icarus, Part Four" 
+2014-09 | BM2  33 | "Savage City, Part Four"  (Batman: Zero Year)
+2014-10 | DC2  34 | "Icarus: Conclusion" 
+2014-10 | BM2  34 | "The Meek" 
+2014-12 | DC2  35 | "Terminal 1" 
+2014-12 | BM2  35 | "Endgame, Part One"  (Batman: Endgame)
+2015-01 | DC2  36 | "Terminal 2" 
+2015-01 | BM2  36 | "Endgame, Part Two"  (Batman: Endgame)
+2015-02 | DC2  37 | "Anarky, Part 1" 
+2015-02 | BM2  37 | "Batman: Endgame, Part Three"  (Batman: Endgame)
+2015-03 | DC2  38 | "Anarky, Part 2" 
+2015-03 | BM2  38 | "Endgame, Part Four"  (Batman: Endgame)
+2015-04 | DC2  39 | "Anarky, Part 3" 
+2015-04 | BM2  39 | "Batman: Endgame, Part Five"  (Batman: Endgame)
+2015-05 | DC2  40 | "Anarky, Conclusion" 
+2015-06 | BM2  40 | "Endgame, Part Six" 
+2015-08 | DC2  41 | "Reunion, Part 1 of 4" 
+2015-08 | BM2  41 | "Superheavy, Part One" 
+2015-09 | DC2  42 | "Partnerships" 
+2015-09 | BM2  42 | "Superheavy, Part Two" 
+2015-10 | DC2  43 | "Deals" 
+2015-10 | BM2  43 | "Superheavy, Part Three" 
+2015-11 | DC2  44 | "Goodbyes" 
+2015-11 | BM2  44 | "A Simple Case" 
+2015-12 | DC2  45 | "Of Giants and Men" 
+2015-12 | BM2  45 | "Superheavy, Part Five" 
+2016-01 | DC2  46 | "Blood on Blood" 
+2016-01 | BM2  46 | "Superheavy, Part Six" 
+2016-02 | DC2  47 | "Robin War, Part Three: Getting Dirty"  (Robin War)
+2016-02 | BM2  47 | "Superheavy, Part Seven" 
+2016-03 | DC2  48 | "The Bronze Age - Blood of Heroes" 
+2016-03 | BM2  48 | "Superheavy, Part Eight" 
+2016-04 | DC2  49 | "The Bronze Age - Salt of the Earth" 
+2016-04 | BM2  49 | "Superheavy, Part Nine" 
+2016-05 | DC2  50 | "The Bronze Age - Martyrs and Madmen" 
+2016-05 | BM2  50 | "Superheavy, Part Ten" 
+2016-06 | DC2  51 | "Our Gordon At War, Part 1" 
+2016-06 | BM2  51 | "Gotham Is" 
+2016-07 | DC2  52 | "Our Gordon At War, Part 2" 
+2016-07 | BM2  52 | "The List" 
+2016-08 | DC1 934 | "Rise of the Batmen, Part 1: The Young and the Brave"  (DC Rebirth)
+2016-08 | DC1 935 | "Rise of the Batmen, Part 2: Apocalypse Now" 
+2016-08 | BM3   1 | "I Am Gotham, Part One"  (DC Rebirth)
+2016-09 | DC1 936 | "Rise of the Batmen, Part 3: Army of Shadows"  (DC Rebirth)
+2016-09 | DC1 937 | "Rise of the Batmen, Part Four: The Great Escape"  (DC Rebirth)
+2016-09 | BM3   2 | "I Am Gotham, Part Two"  (DC Rebirth)
+2016-09 | BM3   3 | "I Am Gotham, Part Three"  (DC Rebirth)
+2016-10 | DC1 938 | "Rise of the Batmen, Part Five: Enemy at the Gates"  (DC Rebirth)
+2016-10 | DC1 939 | "Rise of the Batmen, Part Six: The Thin Red Line"  (DC Rebirth)
+2016-10 | BM3   4 | "I Am Gotham, Part Four"  (DC Rebirth)
+2016-10 | BM3   5 | "I Am Gotham, Part Five"  (DC Rebirth)
+2016-11 | DC1 940 | "Rise of the Batmen, Part Seven: The Red Badge of Courage"  (DC Rebirth)
+2016-11 | DC1 941 | "Night of the Monster Men, Part 3"  (DC Rebirth)
+2016-11 | BM3   6 | "I Am Gotham, Epilogue"  (DC Rebirth)
+2016-11 | BM3   7 | "Night of the Monster Men, Part 1"  (DC Rebirth)
+2016-12 | DC1 942 | "Night of the Monster Men, Finale"  (DC Rebirth)
+2016-12 | DC1 943 | "The Victim Syndicate, Part One: I Saw the Devil"  (DC Rebirth)
+2016-12 | BM3   8 | "Night of the Monster Men, Part 4"  (DC Rebirth)
+2016-12 | BM3   9 | "I Am Suicide, Part One"  (DC Rebirth)
+2017-01 | DC1 944 | "The Victim Syndicate, Part Two: Payback"  (DC Rebirth)
+2017-01 | DC1 945 | "The Victim Syndicate, Part Three: Unforgiven"  (DC Rebirth)
+2017-01 | BM3  10 | "I Am Suicide, Part Two"  (DC Rebirth)
+2017-01 | BM3  11 | "I Am Suicide, Part Three"  (DC Rebirth)
+2017-02 | DC1 946 | "The Victim Syndicate, Part Four: Death Wish"  (DC Rebirth)
+2017-02 | DC1 947 | "The Victim Syndicate, Finale: The Brave One"  (DC Rebirth)
+2017-02 | BM3  12 | "I Am Suicide, Part Four"  (DC Rebirth)
+2017-02 | BM3  13 | "I Am Suicide, Part Five"  (DC Rebirth)
+2017-03 | DC1 948 | "Batwoman Begins, Part One"  (DC Rebirth)
+2017-03 | DC1 949 | "Batwoman Begins, Finale"  (DC Rebirth)
+2017-03 | BM3  14 | "Rooftops, Part 1 of 2"  (DC Rebirth)
+2017-03 | BM3  15 | "Rooftops, Part 2"  (DC Rebirth)
+2017-04 | DC1 950 | "League of Shadows, Prologue: Shadow of a Tear"  (DC Rebirth)
+2017-04 | DC1 951 | "League of Shadows, Part 1: Unleashed"  (DC Rebirth)
+2017-04 | BM3  16 | "I Am Bane, Part One"  (DC Rebirth)
+2017-04 | BM3  17 | "I Am Bane, Part Two"  (DC Rebirth)
+2017-05 | DC1 952 | "League of Shadows, Part Two: The Five Fingers of Death"  (DC Rebirth)
+2017-05 | DC1 953 | "League of Shadows, Part 3: Kiss of the Dragon"  (DC Rebirth)
+2017-05 | BM3  18 | "I Am Bane, Part Three"  (DC Rebirth)
+2017-05 | BM3  19 | "I Am Bane, Part Four"  (DC Rebirth)
+2017-06 | DC1 954 | "League of Shadows, Part 4: Snake in the Eagle's Shadow"  (DC Rebirth)
+2017-06 | DC1 955 | "League of Shadows, Part 5: Fists of Fury"  (DC Rebirth)
+2017-06 | BM3  20 | "I Am Bane, Part Five"  (DC Rebirth)
+2017-06 | BM3  21 | "The Button, Part 1"  (DC Rebirth)
+2017-07 | DC1 956 | "League of Shadows, Finale: The Duel"  (DC Rebirth)
+2017-07 | DC1 957 | "The Wrath of Spoiler"  (DC Rebirth)
+2017-07 | BM3  22 | "The Button, Part 3"  (DC Rebirth)
+2017-07 | BM3  23 | "The Brave and the Mold"  (DC Rebirth)
+2017-08 | DC1 958 | "Intelligence, Part 1: Ex Machina"  (DC Rebirth)
+2017-08 | DC1 959 | "Intelligence, Part 2: Transcendence"  (DC Rebirth)
+2017-08 | BM3  24 | "Every Epilogue Is a Prelude"  (DC Rebirth)
+2017-08 | BM3  25 | "War of Jokes & Riddles, Part One"  (DC Rebirth)
+2017-09 | DC1 960 | "Intelligence, Part 3: Short Circuit"  (DC Rebirth)
+2017-09 | DC1 961 | "Intelligence, Part 4: Ghost in the Shell"  (DC Rebirth)
+2017-09 | BM3  26 | "The War of Jokes & Riddles, Part Two"  (DC Rebirth)
+2017-09 | BM3  27 | "The Ballad of Kite Man, Part One"  (DC Rebirth)
+2017-10 | DC1 962 | "Intelligence, Finale: Judgment Day"  (DC Rebirth)
+2017-10 | DC1 963 | "Utopia"  (DC Rebirth)
+2017-10 | BM3  28 | "The War of Jokes & Riddles, Part Three"  (DC Rebirth)
+2017-10 | BM3  29 | "The War of Jokes & Riddles, Part 4"  (DC Rebirth)
+2017-11 | DC1 964 | "Dystopia"  (DC Rebirth)
+2017-11 | DC1 965 | "A Lonely Place of Living, Chapter 1"  (DC Rebirth)
+2017-11 | BM3  30 | "The Ballad of Kite Man, Part 2"  (DC Rebirth)
+2017-11 | BM3  31 | "The War of Jokes & Riddles, Part 5"  (DC Rebirth)
+2017-12 | DC1 966 | "A Lonely Place of Living, Chapter 2"  (DC Rebirth)
+2017-12 | DC1 967 | "A Lonely Place of Living, Chapter 3"  (DC Rebirth)
+2017-12 | BM3  32 | "The War of Jokes & Riddles, Conclusion"  (DC Rebirth)
+2017-12 | BM3  33 | "The Rules of Engagement, Part 1"  (DC Rebirth)
+2018-01 | DC1 968 | "A Lonely Place of Living, Conclusion"  (DC Rebirth)
+2018-01 | DC1 969 | "Fall of the Batmen, Part 1"  (DC Rebirth)
+2018-01 | BM3  34 | "The Rules of Engagement, Part 2"  (DC Rebirth)
+2018-01 | BM3  35 | "The Rules of Engagement, Part 3"  (DC Rebirth)
+2018-02 | DC1 970 | "Fall of the Batmen, Part 2" 
+2018-02 | DC1 971 | "Fall of the Batmen, Part 3" 
+2018-02 | BM3  36 | "Superfriends, Part 1" 
+2018-02 | BM3  37 | "Superfriends, Part 2" 
+2018-03 | DC1 972 | "Fall of the Batmen, Part 4" 
+2018-03 | DC1 973 | "Fall of the Batmen, Finale" 
+2018-03 | BM3  38 | "The Origin of Bruce Wayne" 
+2018-03 | BM3  39 | "Superfriends, Part 3" 
+2018-04 | DC1 974 | "Knights Fall" 
+2018-04 | DC1 975 | "The Trial of Batwoman" 
+2018-04 | BM3  40 | "Superfriends, Part 4" 
+2018-04 | BM3  41 | "Everyone Loves Ivy, Part One" 
+2018-05 | DC1 976 | "Batmen Eternal, Part 1" 
+2018-05 | DC1 977 | "Batmen Eternal, Part 2" 
+2018-05 | BM3  42 | "Everyone Loves Ivy, Part Two" 
+2018-05 | BM3  43 | "Everyone Loves Ivy, Part Three" 
+2018-06 | DC1 978 | "Batmen Eternal, Part 3" 
+2018-06 | DC1 979 | "Batmen Eternal, Part 4" 
+2018-06 | BM3  44 | "Bride or Burglar" 
+2018-06 | BM3  45 | "The Gift, Part 1" 
+2018-07 | DC1 980 | "Batmen Eternal, Part 5" 
+2018-07 | DC1 981 | "Batman Eternal, Finale" 
+2018-07 | BM3  46 | "The Gift, Part 2" 
+2018-07 | BM3  47 | "The Gift, Finale" 
+2018-08 | DC1 982 | "The Cursing of Gotham City!" 
+2018-08 | DC1 983 | "On the Outside, Part 1" 
+2018-08 | BM3  48 | "The Best Man, Part 1" 
+2018-08 | BM3  49 | "The Best Man, Finale" 
+2018-09 | DC1 984 | "On the Outside, Part 2" 
+2018-09 | DC1 985 | "On the Outside, Part 3" 
+2018-09 | BM3  50 | "The Wedding of Batman & Catwoman" 
+2018-09 | BM3  51 | "Cold Days, Part One" 
+2018-10 | DC1 986 | "On the Outside, Part 4" 
+2018-10 | DC1 987 | "On the Outside - Finale" 
+2018-10 | BM3  52 | "Cold Days, Part Two" 
+2018-10 | BM3  53 | "Cold Days, Part Three" 
+2018-10 | BM3  54 | "The Better Man" 
+2018-11 | DC1 988 | "Deface the Face Part One: A Solitary Man" 
+2018-11 | DC1 989 | "Deface the Face Part Two: An Optimistic Man" 
+2018-11 | BM3  55 | "Beasts of Burden, Part 1" 
+2018-12 | DC1 990 | "Deface the Face Part Three: A Conflicted Man" 
+2018-12 | DC1 991 | "Deface the Face Part Four: The Talking Man" 
+2018-12 | BM3  56 | "Beasts of Burden, Part 2" 
+2018-12 | BM3  57 | "Beasts of Burden: Conclusion" 
+2019-01 | DC1 992 | "Deface the Face, Part 5: A Fighting Man" 
+2019-01 | DC1 993 | "Deface the Face, Finale: A Dead Man" 
+2019-01 | BM3  58 | "The Tyrant Wing, Part 1" 
+2019-01 | BM3  59 | "The Tyrant Wing, Part 2" 
+2019-02 | DC1 994 | "Mythology: Raze" 
+2019-02 | BM3  60 | "The Tyrant Wing, Part 3" 
+2019-02 | BM3  61 | Knightmares, Part 1: "Suddenly Indeed" 
+2019-03 | DC1 995 | "Mythology: Ring Them Bells" 
+2019-03 | DC1 996 | "Mythology: See Paris and Die!" 
+2019-03 | DC1 997 | "Mythology: Waiting for a Miracle" 
+2019-03 | BM3  62 | Knightmares, Part 2: "Lost" 
+2019-03 | BM3  63 | Knightmares, Part 3: "Smoke and Mirrors" 
+2019-04 | DC1 998 | "Mythology: Hell and Back" 
+2019-04 | DC1 999 | "Mythology: The Price You Pay" 
+2019-04 | BM3  64 | The Price, Part 1 of 4: "The Price of Justice"  (The Price)
+2019-04 | BM3  65 | The Price, Part 3 of 4: "The Price of Vengeance"  (The Price)
+2019-05 | BM3  66 | Knightmares, Part 4: "Cat" 

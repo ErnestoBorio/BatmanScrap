@@ -1,0 +1,18 @@
+[{"_id": "1993-10|Batman Vol 1|500"},
+{
+"cover": "https://vignette.wikia.nocookie.net/marvel_dc/images/b/b2/Batman_500B.jpg/revision/latest/scale-to-width-down/318?cb=20080514121224",
+"date": "October, 1993",
+"date_key": 199310,
+"event": {"link": "/wiki/Batman:_Knightfall", "title": "Batman: Knightfall"},
+"issue": "Batman Vol 1 500",
+"issue_number": "500",
+"main_story": "\"Dark Angel I: The Fall\"",
+"next": "/wiki/Batman_Vol_1_501",
+"one_shot": "Batman Vol 1 #500",
+"prev": "/wiki/Batman_Vol_1_499",
+"publication": "Batman Vol 1",
+"stories": ["\"Dark Angel I: The Fall\"", "\"Dark Angel II: The Descent\""],
+"updated": "2019-03-10 16:53:47",
+"url": "https://dc.fandom.com/wiki/Batman_Vol_1_500"
+}
+]
